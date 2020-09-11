@@ -14,10 +14,10 @@ author: Regina Mattazio - Copywriter
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Profissional: "Profissional"
-  Pessoal: "Pessoal"
-  Currículo: "Currículo"
-  Contato: "contato.md"
+  profissional: "Profissional"
+  pessoal: "Pessoal"
+  currículo: "Currículo"
+  contato: "contato"
   
 #Author's home: "https://deanattali.com"
 
