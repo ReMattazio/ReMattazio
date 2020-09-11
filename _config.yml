@@ -16,8 +16,9 @@ author: Re Mattazio
 navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
+ # Author's home: "https://deanattali.com"
+ # profissional
   pessoal: "pessoal"
   curriculum: "curriculum"
   contato: "contato"
@@ -112,7 +113,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/tecido_cru_pb_op80.jpg"
+page-img: "/assets/img/papel_textura2.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
