@@ -4,10 +4,10 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign trabalhos = paginator.trabalhos | default: site.trabalhos %}
 
 <div class="posts-list">
-  {% for post in posts %}
+  {% for post in trabalhos %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
