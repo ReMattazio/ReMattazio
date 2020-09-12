@@ -4,4 +4,4 @@ title: Portfólio
 subtitle: Jobs, freelas, estudos
 ---
 
-##Olha isso **aqui**!
+## Olha isso _aqui_!
