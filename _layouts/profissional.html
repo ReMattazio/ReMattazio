@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign trabalhos = site.trabalhos | default: site.trabalhos %}
+{% assign trabalhos = paginator.trabalhos | default: site.trabalhos %}
 
 <div class="posts-list">
   {% for post in trabalhos %}
