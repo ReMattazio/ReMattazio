@@ -14,9 +14,7 @@ author: Re Mattazio
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
- # profissional
+  profissional: "profissional"
   pessoal: "pessoal"
   curriculum: "curriculum"
   contato: "contato"
