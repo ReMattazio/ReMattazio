@@ -9,7 +9,7 @@ layout: page
 <div class="posts-list">
   {% for post in trabalhos %}
   <article class="post-preview">
-
+    {{ post.capa }}
     <a href="{{ post.url | absolute_url }}">
       {{ post.capa }}
     </a>
