@@ -4,7 +4,7 @@ title: O que levamos da infância
 subtitle: Temas da máquina de escrever
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [frases, infancia]
+tags: [frases, infância]
 comments: true
 ---
 
@@ -18,20 +18,3 @@ Aprendi com o David Abbott no livro "The Copy" que escrever tudo o que vem na ca
 
 
 
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
