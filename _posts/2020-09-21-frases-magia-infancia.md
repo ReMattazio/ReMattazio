@@ -2,8 +2,6 @@
 layout: post
 title: O que levamos da infância
 subtitle: Temas da máquina de escrever
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [frases, infância]
 comments: true
 ---
