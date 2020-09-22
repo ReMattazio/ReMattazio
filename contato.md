@@ -1,16 +1,11 @@
 ---
 layout: page
-title: Estou aqui, pode falar
-subtitle: Me fala que eu te escuto. Se der a gente resolve!
+title: Olá, seja bem-vindo!
 ---
 
-Ao longo das páginas você já descobriu quem sou eu, uma publicitária engenheira que se apaixonou por escrita.
+Esse site foi feito com carinho e nele você encontrou o que eu fiz profissionalmente e os meus textos pessoais. Espero que tenha se divertido e encontrado textos de seu interesse.
+Então, aqui está você e acredito que tenha motivo. Seja qual for, você pode me contar? Eu gostaria de saber.
+Sinta-se livre para escolher como conversar comigo, pode ser e-mail (regina.mattazio@gmail.com), celular (016 98123 4587), ou pelas redes sociais que estão no rodapé da página (tem Facebook, Instagram, LinkedIn, e até GitHub).
 
-Se você quiser me chamar para fazer um freela, um job, para me contratar, ou só quer conversar comigo, fique a vontade para entrar em contato.
-Pode mandar email regina.mattazio@gmail.com .
-Entrar em alguma rede social como [Facebook](https://www.facebook.com/re.r.matt) 
-ou [Instagram](https://www.instagram.com/re_r_matt/) 
-ou pode até me ligar.
-
-Me fala, eu te escuto. Se eu puder, resolvo.
+Obrigada por visitar e volte outras vezes, eu atualizo o blog e os trabalhos profissionais conforme as oportunidades surgem.
 
