@@ -2,6 +2,8 @@
 layout: post
 title: Frases para máquina de escrever
 subtitle: Tema: Magia da infância na vida adulta
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
 tags: [frases]
 comments: true
 ---
