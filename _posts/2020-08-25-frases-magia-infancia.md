@@ -10,7 +10,7 @@ Em agosto desse ano (2020) ganhei minha máquina de escrever. Estava perdida na 
 Conserto feito e ela estava pronta para ser usada. Para colocá-la para funcionar e anunciar o novo presente resolvi fazer umas fotos para o Instagram e em cada foto deveria ter uma frase diferente. Assim, me foi sugerido um dos primeiros temas que eu digitei na máquina: O que os adultos podem levar da magia da infância.
 Aprendi com o David Abbott no livro "The Copy" que escrever tudo o que vem na cabeça é importante para as ideias fluirem e para fazer textos criativos. Vou compartilhar algumas frases com vocês.
 
-![brincar]("/assets/img/IMG_20200827_221845.jpg")
+![brincar]("/assets/img/brincar.jpg")
 
 O que é interessante levar da infância?
 
