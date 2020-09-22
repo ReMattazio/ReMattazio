@@ -8,56 +8,15 @@ tags: [frases, infancia]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Em agosto desse ano (2020) ganhei minha máquina de escrever. Estava perdida na oficina do meu sogro e meu namorado arrumou um senhorzinho para consertá-la.
+Conserto feito e ela estava pronta para ser usada. Para colocá-la para funcionar e anunciar o novo presente resolvi fazer umas fotos para o Instagram e em cada foto deveria ter uma frase diferente. Assim, me foi sugerido um dos primeiros temas que eu digitei na máquina: O que os adultos podem levar da magia da infância.
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Aprendi com o David Abbott no livro "The Copy" que escrever tudo o que vem na cabeça é importante para as ideias fluirem e para fazer textos criativos. Vou compartilhar algumas frases com vocês.
 
 
-How about a yummy crepe?
+![brincar]("/assets/img/brincar.jpg")
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
 ## Boxes
 You can add notification, warning and error boxes like this:
