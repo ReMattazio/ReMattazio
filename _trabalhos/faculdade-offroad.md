@@ -16,7 +16,5 @@ Segue o cartaz:
 Ficha técnica:
 
 Foto: Ana Paula Nascimento Cavalcanti
-
 Texto: Regina Mattazio
-
 Produção da imagem: Regina Mattazio
