@@ -4,4 +4,4 @@ title: Portfólio
 subtitle: Jobs, freelas, estudos
 ---
 
-Cada imagem é um trabalho, clique na imagem que interessar
+Cada imagem é um trabalho, clique na que interessar
