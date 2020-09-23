@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Off road - faculdade
+title: Off road
+subtitle: Faculdade
 capa: /assets/img/jipe.jpg
 ---
 
