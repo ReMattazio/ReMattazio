@@ -13,7 +13,7 @@ Segue o cartaz:
 
 ![tecnicas offroad](/assets/img/offroad.png)
 
-Ficha técnica:
-Foto: Ana Paula Nascimento Cavalcanti
-Texto: Regina Mattazio
+Ficha técnica:  
+Foto: Ana Paula Nascimento Cavalcanti  
+Texto: Regina Mattazio  
 Produção da imagem: Regina Mattazio
