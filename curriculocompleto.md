@@ -21,9 +21,7 @@ Língua Inglesa, nível avançado – TOEFL ITP  Língua italiana, nível inicia
 Conhecimento em Pacote Office, AutoCAD, TransCAD, MSProject.
 
 
-### Histórico profissional
-
-
+### Histórico profissional  
 **ATMO Prop&Mark – período: (julho à dezembro de 2019).**  
 (Agência de comunicação 360)  
 Cargo – Estagiária de mídia, atendimento e criação.  
