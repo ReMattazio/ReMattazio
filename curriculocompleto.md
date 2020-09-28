@@ -14,7 +14,8 @@ Engenharia Civil, Universidade Federal de São Carlos – UFSCar – concluído 
 
 
 ### Idiomas  
-Língua Inglesa, nível avançado – TOEFL ITP  Língua italiana, nível iniciante
+Língua Inglesa, nível avançado – TOEFL ITP  
+Língua italiana, nível iniciante
 
 
 ### Informática  
