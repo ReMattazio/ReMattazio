@@ -3,6 +3,7 @@ layout: page
 title: Meu Storytelling
 ---
 
+
 Acho que você está cansado de ver o mesmo formato de currículo e eu também estou incomodada com o formato que ele tem. Assim resolvi conversar com você e contar através dessa pequena história o que eu passei para chegar até aqui e, talvez, você simpatize comigo.  
 Sou uma menina de riso fácil e tom amigável. Sempre escuto o que as pessoas têm a dizer, atentamente. Afinal, acredito que todos têm algo interessante para ensinar.  
 Sou Brasileira, nascida na capital paulista e moradora de São Carlos. Fui criada de um jeito peculiar, para amar livros e tomar sozinha várias decisões. Sempre fui um pouco sonhadora e passava longas noites entre leituras e criações e, desde que me lembro, sempre gostei de escrever histórias de amores.  
