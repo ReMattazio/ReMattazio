@@ -3,25 +3,27 @@ layout: page
 subtitle: Currículo completo
 ---
 
-###Síntese das qualificações  
+### Síntese das qualificações  
 Produção de textos.  Gerenciamento e análise de mídias sociais.  Atuação com trabalho voluntário em vendas e controle de estoque.  Participação na elaboração planilhas de orçamento de obras públicas.  Carteira de habilitação.
 
 
-###Formação acadêmica  
+### Formação acadêmica  
 Comunicação Social – Publicidade e Propaganda, Centro Universitário Central Paulista – UNICEP – concluído em junho de 2020.
 
 Engenharia Civil, Universidade Federal de São Carlos – UFSCar – concluído em dezembro de 2015.
 
 
-###Idiomas  
+### Idiomas  
 Língua Inglesa, nível avançado – TOEFL ITP  Língua italiana, nível iniciante
 
 
-###Informática  
+### Informática  
 Conhecimento em Pacote Office, AutoCAD, TransCAD, MSProject.
 
 
-###Histórico profissional  
+### Histórico profissional
+
+
 **ATMO Prop&Mark – período: (julho à dezembro de 2019).**  
 (Agência de comunicação 360)  
 Cargo – Estagiária de mídia, atendimento e criação.  
@@ -58,7 +60,7 @@ Resumo das atividades:
 - Visita, junto ao engenheiro fiscal, de algumas obras da universidade e aprendizagem sobre alguns problemas encontrados.
 
 
-###Cursos e informações complementares  
+### Cursos e informações complementares  
 - 2020 – Neurociência e emoções. Belas Artes.  
 - 2020 – Curso online de Storytelling. Descola.  
 - 2020 – Escrita afetuosa. Ana Holanda.  
