@@ -76,5 +76,15 @@ Resumo das atividades:
 - 2017 – Curso online de Redação Publicitária com Fábio Seidl – Escola Cuca.  
 - 2017 – Participação do 19º Congresso de Iniciação Científica da UNICEP.  
 - 2017 – Excel Básico. SENAC São Carlos.  
-- 2016 – Trabalho voluntário: Associação Cultural e Desportiva Nipo Brasileira De São Carlos.
+- 2016 – Trabalho voluntário: Associação Cultural e Desportiva Nipo Brasileira De São Carlos.  
+- 2016 – Participação da 22ª Semana de Tecnologia Metroferroviária.  
+- 2016 – Disciplina “Propriedades Físico-Mecânicas da Madeira e de Produtos Engenheirados à base de Madeira”. Período: agosto a novembro de 2016.  
+- 2014 – Participação do 22º Congresso de Iniciação Científica da UFSCar.  
+- 2013 – Realização do Trabalho de Conclusão de Curso sob o tema “Criação de um sistema de gerência de pavimentos urbanos para o campus São Carlos da UFSCar”.  
+- 2013 – Participação do Brazil Road Summit 2013.  
+- 2009/2010 – Bolsista do programa de Apoio às Atividades de Graduação. Realização do projeto “Atualização e Reestruturação de Projeto de Segurança de Trânsito no Campus UFSCar/SC Para Apoio à Comissão de Segurança de Trânsito-CPSTU”. Período: Agosto de 2009 a Janeiro de 2010.  
+- 2008 – Participação da Atividade Curricular de Integração Ensino, Pesquisa e Extensão (ACIEPE) sob o tema Trânsito Seguro e Sustentável. Período: Agosto a Novembro de 2008.  
+- 2007 – Participação da 1ª Semana de Engenharia Civil na Universidade Federal de São Carlos.  
+
+
 
