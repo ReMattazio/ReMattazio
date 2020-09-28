@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Currículo completo
+subtitle: Currículo completo
 ---
 
 ###Síntese das qualificações  
