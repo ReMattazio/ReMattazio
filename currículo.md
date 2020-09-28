@@ -5,4 +5,4 @@ subtitle: O que eu andei fazendo academicamente
 [Meu currículo]:
 ---
 
-![curriculo](/assets/img/curriculo.svg){: .mx-auto.d-block :}
+![curriculo](/assets/img/curriculo2.svg){: .mx-auto.d-block :}
