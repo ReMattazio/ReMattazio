@@ -20,5 +20,5 @@ O logo eu fiz com dicas do Nelson Bolano. Obrigada!
 E a fonte de máquina de escrever fui eu que fiz, se você a quiser pode entrar em contato.
 
 
-Outras referências você encontra pelo site  
+Outras referências você encontra pelo site.  
 Muito obrigada a você que visitou, espero que essas referências também possam te ajudar.
