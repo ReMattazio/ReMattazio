@@ -6,7 +6,7 @@ title: 'Atribuições'
 Esse site não foi feito sozinho com coisas produzidas só por mim, então agradeço à muita gente!
 
 
-O [Dean Attali] (https://deanattali.com/) que fez o Beautiful Jekyll e o disponibilizou gratuitamente. Thanks a lot Dean!
+O [Dean Attali](https://deanattali.com/) que fez o Beautiful Jekyll e o disponibilizou gratuitamente. Thanks a lot Dean!
 
 O Rafael Mattazio (https://github.com/rahcor) que ajudou a modificar o site e deixá-lo mais bonito e funcional. Muito obrigada!
 
