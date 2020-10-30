@@ -56,3 +56,13 @@ label {
   margin-left: auto;
   filter: grayscale(0%);
 }
+
+.post-image {
+  border-radius: 1.5rem;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  filter: grayscale(0%);
+}
+
+
