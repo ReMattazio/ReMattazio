@@ -3,7 +3,7 @@ layout: page
 title: Off road
 subtitle: Faculdade
 capa: /assets/img/jipe.jpg
-frase-capa: Cartaz de "escola off road" para faculdade
+frase-capa: Minha terra tem barreiras, mas meu 4x4 vai passar. Cartaz de "escola off road" para faculdade.
 ---
 
 Esse ensaio de publicidade para "escola de off road" foi feito no segundo ano de Publicidade e Propaganda.
