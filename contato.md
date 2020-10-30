@@ -11,3 +11,18 @@ Sinta-se livre para escolher como conversar comigo, pode ser e-mail (regina.matt
 
 Obrigada por visitar e volte outras vezes, eu atualizo o blog e os trabalhos profissionais conforme as oportunidades surgem.
 
+Se quiser pode entrar em contato pelo formulário abaixo.
+
+<form
+  action="https://formspree.io/f/mjvprglr"
+  method="POST"
+>
+  <label>Seu nome:<input type="text" name="Nome">
+  </label>
+  <label>Seu e-mail:<input type="text" name="E-mail">
+  </label>
+  <label>Sua mensagem:
+    <textarea name="Mensagem"></textarea>
+  </label>
+  <button type="submit" class="botao">Enviar</button>
+</form>

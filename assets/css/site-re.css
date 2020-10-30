@@ -1,4 +1,51 @@
 @font-face {
-    font-family: 'melettera32';
-    src: url('/assets/Melettera32-Regular.otf') format('otf');
-    }
+  font-family: 'melettera32';
+  src: url('/assets/Melettera32-Regular.otf') format('opentype');
+}
+
+.portif-text {
+  text-align: center;
+  margin-top: 0.75rem !important;
+}
+
+.portif-image {
+  border-radius: 2rem;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  filter: grayscale(0%);
+}
+
+.portif-image:hover {
+  filter: grayscale(90%);
+}
+
+input[type=text], textarea{
+  width: 100%;
+  padding: 0.12rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+label {
+  width: 100%;
+  padding-top: 0.5rem;
+}
+
+.botao {
+  background-color: rgb(203,165,162);
+  color: white;
+  font-weight: bold;
+  font-family: 'melettera32';
+  padding: 0.5rem 1.25rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.botao:hover{
+  background-color: rgb(155,120,117);
+}
+

@@ -9,10 +9,12 @@ layout: page
 <div class="posts-list">
   {% for post in trabalhos %}
   <article class="post-preview">
-    <div class="mx-auto">
+    <div>
       <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ post.capa | absolute_url }}" alt="Post thumbnail">
+        <img src="{{ post.capa | absolute_url }}" alt="Post thumbnail" class="portif-image">
       </a>
+      <p class="portif-text">{{ post.frase-capa }}
+      </p>
     </div>
    </article>
   {% endfor %}

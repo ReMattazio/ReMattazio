@@ -3,6 +3,7 @@ layout: page
 title: Off road
 subtitle: Faculdade
 capa: /assets/img/jipe.jpg
+frase-capa: 'Era uma vez um carrinho verde.'
 ---
 
 Esse ensaio de publicidade para "escola de off road" foi feito no segundo ano de Publicidade e Propaganda.

@@ -3,6 +3,8 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@import url("site-re.css");
+
 
 /* --- General --- */
 
@@ -151,7 +153,14 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   font-size: 1.125rem;
+  background: rgba(255,255,255,0.85);
+  border: solid;
+  border-width: thin;
+  border-color: rgb(203,165,162);
+  border-radius: 1rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -189,17 +198,25 @@ img {
 }
 
 .navbar-custom .navbar-nav .nav-item {
-  text-transform: uppercase;
-  font-size: 0.8125rem;
-  letter-spacing: 0.0625rem;
+/*  text-transform: uppercase;*/
+/*  font-size: 0.8125rem;*/
+  font-size: 1.10rem;
+/*  letter-spacing: 0.2625rem;*/
 }
 
 .navbar-custom .navbar-nav .nav-link {
   padding-top: 0;
   padding-bottom: 0;
   line-height: 1.25rem;
-  padding-top: 0.9375rem;
-  padding-bottom: 0.9375rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background: rgba(255,255,255,0.85);
+  border: solid;
+  border-width: thin;
+  border-color: rgb(203,165,162);
+  border-radius: 0.75rem;
+/*  padding-top: 0.9375rem;*/
+/*  padding-bottom: 0.9375rem;*/
 }
 
 .navbar-custom .navbar-brand,
@@ -241,12 +258,15 @@ img {
   }
 
   .navbar-expand-md .navbar-nav .nav-link {
-    padding-left: 0.9375rem;
-    padding-right: 0.9375rem;
+/*    padding-left: 0.9375rem;*/
+/*    padding-right: 0.9375rem;*/
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+    margin-left: 0.25rem;
   }
 
   .navbar-expand-md .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
-    padding-right: 0;
+/*    padding-right: 0;*/
   }
 }
 
@@ -433,7 +453,9 @@ footer .footer-custom-content {
 
 .post-preview {
   padding: 1.25rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 2px solid;
+  border-image-source: linear-gradient(to right, rgba(203,165,162, .05), rgba(203,165,162, 0.9) 6%, rgba(203,165,162, 0.9) 94%, rgba(203,165,162, .05));
+  border-image-slice: 1;
 }
 
 @media (min-width: 768px) {
@@ -485,10 +507,10 @@ footer .footer-custom-content {
   width: 12rem;
 }
 .post-preview .post-image {
-  filter: grayscale(90%);
+  filter: grayscale(0%);
 }
 .post-preview .post-image:hover {
-  filter: grayscale(0%);
+  filter: grayscale(90%);
 }
 .post-preview .post-image img {
   border-radius: 6rem;
