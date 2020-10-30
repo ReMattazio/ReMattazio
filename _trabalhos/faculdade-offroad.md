@@ -12,7 +12,7 @@ O trabalho pedia uma propaganda em cartaz de tema livre. Por gostar de jipes e d
 Na ocasião, trabalhavamos como dupla de criação, mas minha dupla pediu que eu fizesse a imagem, o que não deu tão certo, afinal os tipos não combinam, tampouco as cores usadas, mas deu pro gasto na disciplina.
 
 Segue o cartaz:  
-![tecnicas offroad](/assets/img/offroad.png){: .portif-image :}
+![tecnicas offroad](/assets/img/offroad.png){: .trab-image :}
 
 Ficha técnica:  
 Foto: Ana Paula Nascimento Cavalcanti  
