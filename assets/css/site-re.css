@@ -65,4 +65,7 @@ label {
   filter: grayscale(0%);
 }
 
+.avatar-rotate {
+  transform: rotate(-40deg);
+}
 
