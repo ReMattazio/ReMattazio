@@ -11,11 +11,11 @@ O [Rafael Rocha](https://github.com/rahcor) que ajudou a modificar o site e deix
 
 
 O Ghodor que fez o GIF do John Travolta. Thanks!  
-Os ícones do Instagram, Facebook e Linkedin são de: [Flaticon](https://www.flaticon.com/authors/freepik)  
-O ícone do Gmail é de: [Google](https://www.flaticon.com/authors/google)  
 O mosaico usado na barra de navegação foi modificado de "Pavimento em mosaico" em: [Freepik](https://br.freepik.com/fotos/fundo)  
 Os ícones da barra final são da Font Awesome
 
+O currículo foi feito com template de [Freepik](https://br.freepik.com/home)  
+Os ícones no currículo são de: [Flaticon](https://www.flaticon.com/authors/freepik) e [Google](https://www.flaticon.com/authors/google)  
 
 O logo eu fiz com dicas do [Nelson Bolano](https://www.linkedin.com/in/nelsonbolanojunior/). Obrigada!  
 E a fonte de máquina de escrever fui eu que fiz, se você a quiser pode entrar em contato.
