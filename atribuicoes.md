@@ -14,8 +14,8 @@ O Ghodor que fez o GIF do John Travolta. Thanks!
 O mosaico usado na barra de navegação foi modificado de "Pavimento em mosaico" em: [Freepik](https://br.freepik.com/fotos/fundo)  
 Os ícones da barra final são da Font Awesome
 
-O currículo foi feito com template de [Freepik](https://br.freepik.com/home)  
-Os ícones no currículo são de: [Flaticon](https://www.flaticon.com/authors/freepik) e [Google](https://www.flaticon.com/authors/google)  
+O currículo foi feito com template de [Freepik](https://br.freepik.com/vetores/infografico)  
+Os ícones no currículo são de: [Flaticon](https://www.flaticon.com/authors/freepik), [Google](https://www.flaticon.com/authors/google) e [Freepik](https://br.freepik.com/vetores).  
 
 O logo eu fiz com dicas do [Nelson Bolano](https://www.linkedin.com/in/nelsonbolanojunior/). Obrigada!  
 E a fonte de máquina de escrever fui eu que fiz, se você a quiser pode entrar em contato.
