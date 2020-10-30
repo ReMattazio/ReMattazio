@@ -12,7 +12,7 @@ Conserto feito e ela estava pronta para ser usada. Para colocá-la para funciona
 Aprendi com o David Abbott no livro "The Copy" que escrever tudo o que vem na cabeça é importante para as ideias fluirem e para fazer textos criativos. Vou compartilhar algumas frases com vocês.
 
 
-![brincar](/assets/img/brincar.jpg)
+![brincar](/assets/img/brincar.jpg){: .portif-image :}
 
 
 O que é interessante levar da infância?
