@@ -7,13 +7,14 @@ Esse site não foi feito sozinho com coisas produzidas só por mim, então agrad
 
 
 O [Dean Attali](https://deanattali.com/) que fez o Beautiful Jekyll e o disponibilizou gratuitamente. Thanks a lot Dean!  
-O [Rafael Mattazio](https://github.com/rahcor) que ajudou a modificar o site e deixá-lo mais bonito e funcional. Muito obrigada!
+O [Rafael Rocha](https://github.com/rahcor) que ajudou a modificar o site e deixá-lo mais bonito e funcional. Muito obrigada!
 
 
 O Ghodor que fez o GIF do John Travolta. Thanks!  
 Os ícones do Instagram, Facebook e Linkedin são de: [Flaticon](https://www.flaticon.com/authors/freepik)  
 O ícone do Gmail é de: [Google](https://www.flaticon.com/authors/google)  
 O mosaico usado na barra de navegação foi modificado de "Pavimento em mosaico" em: [Freepik](https://br.freepik.com/fotos/fundo)  
+Os ícones da barra final são da Font Awesome
 
 
 O logo eu fiz com dicas do [Nelson Bolano](https://www.linkedin.com/in/nelsonbolanojunior/). Obrigada!  
