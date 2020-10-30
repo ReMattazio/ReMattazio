@@ -16,7 +16,7 @@ O ícone do Gmail é de: [Google](https://www.flaticon.com/authors/google)
 O mosaico usado na barra de navegação foi modificado de "Pavimento em mosaico" em: [Freepik](https://br.freepik.com/fotos/fundo)  
 
 
-O logo eu fiz com dicas do Nelson Bolano. Obrigada!  
+O logo eu fiz com dicas do [Nelson Bolano](https://www.linkedin.com/in/nelsonbolanojunior/). Obrigada!  
 E a fonte de máquina de escrever fui eu que fiz, se você a quiser pode entrar em contato.
 
 
