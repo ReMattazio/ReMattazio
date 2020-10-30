@@ -11,9 +11,9 @@ O [Rafael Mattazio](https://github.com/rahcor) que ajudou a modificar o site e d
 
 
 O Ghodor que fez o GIF do John Travolta. Thanks!..
-Os ícones do Instagram, Facebook e Linkedin são de: [Flaticon](https://www.flaticon.com/authors/freepik) ..
-O ícone do Gmail é de: [Google](https://www.flaticon.com/authors/google) ..
-O mosaico usado na barra de navegação foi modificado de: [Freepik](https://br.freepik.com/fotos/fundo) ..
+Os ícones do Instagram, Facebook e Linkedin são de: [Flaticon](https://www.flaticon.com/authors/freepik)..
+O ícone do Gmail é de: [Google](https://www.flaticon.com/authors/google)..
+O mosaico usado na barra de navegação foi modificado de: [Freepik](https://br.freepik.com/fotos/fundo)..
 
 
 O logo eu fiz com dicas do Nelson Bolano. Obrigada!..
