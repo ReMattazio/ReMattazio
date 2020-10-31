@@ -60,6 +60,7 @@ Resumo das atividades:
 
 
 ### Cursos e informações complementares  
+- 2020 – Curso de criação em escrita. Go, writers. Cris Lisboa.  
 - 2020 – Neurociência e emoções. Belas Artes.  
 - 2020 – Curso online de Storytelling. Descola.  
 - 2020 – Escrita afetuosa. Ana Holanda.  
