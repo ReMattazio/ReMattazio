@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A lapiseira amarela
-tags: [lapiseira amarela, logo, temas aleatorios]
+tags: [logo, temas aleatorios]
 comments: true
 permalink: lapiseira-amarela
 ---
