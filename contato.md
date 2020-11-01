@@ -15,7 +15,7 @@ Formulário:
 
 <form
   action="https://formspree.io/f/mjvprglr"
-  method="POST"
+  method="POST" target="_blank" 
 >
   <label>Seu nome:<input type="text" name="Nome">
   </label>
