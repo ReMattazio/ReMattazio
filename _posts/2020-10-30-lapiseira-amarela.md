@@ -4,6 +4,7 @@ title: A lapiseira amarela
 subtitle: Temas aleatórios
 tags: [lapiseira amarela, logo]
 comments: true
+permalink: lapiseira-amarela
 ---
 
 Talvez, apenas talvez, você esteja se perguntando "por que ela tem essa imagem de lapiseira amarela no site?". Essa lapiseira amarela é **a** minha lapiseira, é a forma que eu uso para colocar no papel as coisas que eu quero, que imagino, que sinto.
