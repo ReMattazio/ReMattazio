@@ -1,7 +1,7 @@
 ---
 layout: post
 title: As séries de heróis da infância
-tags: [infancia, valores, temas aleatorios]
+tags: [temas aleatorios]
 comments: true
 permalink: serie-de-heroi-infancia
 ---
