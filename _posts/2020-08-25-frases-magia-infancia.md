@@ -2,7 +2,7 @@
 layout: post
 title: O que levamos da infância
 subtitle: Temas da máquina de escrever
-tags: [frases, infância]
+tags: [frases, infancia, maquina de escrever]
 comments: true
 ---
 
