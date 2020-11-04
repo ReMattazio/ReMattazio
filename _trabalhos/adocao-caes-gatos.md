@@ -17,17 +17,29 @@ Seguem os posts:
 Adoção responsável é a joia da coroa!
 </p>
 
+
 ![final feliz](/assets/img/principe.png){: .trab-image :}  
+<p class="portif-text">
 Adoção responsável sempre tem um final feliz!
+</p>
+
 
 ![vida alegre](/assets/img/rabugento2.png){: .trab-image :}  
+<p class="portif-text">
 Adoção responsável deixa a vida de todos mais alegre.
+</p>
+
 
 ![nooossa](/assets/img/gatoentrevista2.png){: .trab-image :}  
+<p class="portif-text">
 Adoção responsável de cães e gatos, um doce lar pode ser para todos.
+</p>
+
 
 ![tremedeira](/assets/img/tremedeira2.png){: .trab-image :}  
+<p class="portif-text">
 Adoção responsável é 100% coisa boa.
+</p>
 
 
 Ficha técnica:  
