@@ -13,7 +13,7 @@ A professora nos pediu posts com o tema de adoção de animais. Trabalhamos em u
 Seguem os posts:
 
 ![joia da coroa](/assets/img/rainha2.png){: .trab-image :}  
-<span style="text-align: center;">
+<span class="portif-text">
 Adoção responsável é a joia da coroa!
 </span>
 
