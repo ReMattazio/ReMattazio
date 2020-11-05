@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Storytelling para campanha social
+title: Jingle para loja de colchões
 subtitle: Cursos complementares
 capa: /assets/img/
-frase-capa: Tenha um bom sono com Bom Sonhos Colchões
+frase-capa: Tenha um bom sono com Bom Sono Colchões
 ---
 
 
-Em 2018 fiz no Senac São Carlos um curso de Produção de Jingles. Junto ao professor e um grupo de mais quatro alunos, produzimos uma letra para o jingle de uma loja de colchões, a Bom Sonhos Colchões.
+Em 2018 fiz no Senac São Carlos um curso de Produção de Jingles. Junto ao professor e um grupo de mais quatro alunos, produzimos uma letra para o jingle de uma loja de colchões, a Bom Sono Colchões.
 
 Segue o áudio, a letra do jingle e a ficha técnica.
 
-<audio ref='Bom Senhos' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/colch%C3%B5es_bom_sonhos_jingle.mp3?raw=true" >seu navegador nao suporta audio</audio>
+<audio ref='Bom Sono' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/colch%C3%B5es_bom_sonhos_jingle.mp3?raw=true" >seu navegador nao suporta audio</audio>
 
-Colchões Bom Sonhos
+Colchões Bom Sono
 
 "Depois de um longo dia,  
 uma boa companhia  
