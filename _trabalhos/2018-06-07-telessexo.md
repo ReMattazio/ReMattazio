@@ -11,8 +11,6 @@ Num trabalho da disciplina de português na faculdade a professora pediu um spot
 
 Segue o roteiro e o áudio.
 
-<audio ref='Telessexo' src="https://raw.githubusercontent.com/ReMattazio/remattazio.github.io/master/assets/mids/spot_sexo.mp3" ></audio>
-
 ![Telessexo](assets/mids/spot_sexo.mp3)
 
 
