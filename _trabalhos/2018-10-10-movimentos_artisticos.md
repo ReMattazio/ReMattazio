@@ -13,7 +13,7 @@ Para o movimento Desconstrutivismo:
 ![Desconstrutivismo](/assets/img/descontrutivismo.jpeg){: .trab-image :}
 
 E para o movimento Minimalismo:  
-![Minimalismo](assets/img/minimalismo.jpeg){: .trab-image :}
+![Minimalismo](/assets/img/minimalismo.jpeg){: .trab-image :}
 
 Ficha técnica:  
 texto: Regina Mattazio  
