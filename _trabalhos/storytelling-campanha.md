@@ -27,10 +27,10 @@ Noutro dia se reuniram de novo, dessa vez trouxeram umas tábuas com rodas, que 
 
 Continuei a frequentar aquela banda e descobri que a tal da tábua se chamava Skate, o que eles cantavam era Rap e as falas eram Poesia marginal.
 
-E foi assim que aconteceu, um dia alguém olhou para mim e perguntou:
--Ei você, fala aí mano da tua realidade.
--Tem nada não, mano. – respondi.
--Tamo junto irmão, aqui nois é pá. – ele insistiu.
+E foi assim que aconteceu, um dia alguém olhou para mim e perguntou:  
+-Ei você, fala aí mano da tua realidade.  
+-Tem nada não, mano. – respondi.  
+-Tamo junto irmão, aqui nois é pá. – ele insistiu.  
 
 Me enchi de coragem e arrisquei minhas primeiras rimas. Não saíram lá muito boas, mas ninguém riu.
 
