@@ -11,7 +11,7 @@ Num trabalho da disciplina de português na faculdade a professora pediu um spot
 
 Segue o roteiro e o áudio.
 
-![Telessexo](assets/mids/spot_sexo.mp3)
+![Telessexo](../assets/mids/spot_sexo.mp3)
 
 
 | **LOCUÇÃO** | **TÉCNICA** |
