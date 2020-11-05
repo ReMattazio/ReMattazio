@@ -27,7 +27,7 @@ começa em um colchão bom sono.
 Durma bem, com bom sono colchões.
 
 Bom sono colchões. Tenha bons sonhos!  
-Acesse www.bomsonocolchoes.com.br
+Acesse www<span>.</span>bomsonocolchoes<span>.</span>com<span>.</span>br
 
 Ficha técnica:
 Locução: Regina Mattazio  
