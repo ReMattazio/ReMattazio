@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Re Mattazio
+title: Regina Mattazio
 subtitle: Redatora
 ---
 
