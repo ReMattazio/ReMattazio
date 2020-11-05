@@ -15,7 +15,7 @@ Segue o áudio, a letra do jingle e a ficha técnica.
 
 Colchões Bom Sono
 
-"Depois de um longo dia,  
+Depois de um longo dia,  
 uma boa companhia  
 e o meu colchão bom sono.  
 Posso descansar com conforto e bem estar!  
@@ -27,7 +27,7 @@ começa em um colchão bom sono.
 Durma bem, com bom sono colchões.
 
 Bom sono colchões. Tenha bons sonhos!  
-Acesse www.bomsonocolchoes.com.br"
+Acesse www.bomsonocolchoes.com.br
 
 Ficha técnica:
 Locução: Regina Mattazio  
