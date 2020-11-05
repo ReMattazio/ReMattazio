@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Spot de telesexo
+title: Spot de telessexo
 subtitle: Faculdade
 capa: /assets/img/
-frase-capa: Um spot divertido de telesexo. "Quem somos? Apaixonados anônimos!"
+frase-capa: Um spot divertido de telessexo. "Quem somos? Apaixonados anônimos!"
 ---
 
 
-Num trabalho da disciplina de português na faculdade a professora pediu um spot com texto inspirado no poema "Lira do Amor Romântico ou Eterna Repetição" de Carlos Drummond de Andrade. Nosso grupo decidiu se divertir e aproveitar a liberdade do curso para criar um anúncio de telesexo.
+Num trabalho da disciplina de português na faculdade a professora pediu um spot com texto inspirado no poema "Lira do Amor Romântico ou Eterna Repetição" de Carlos Drummond de Andrade. Nosso grupo decidiu se divertir e aproveitar a liberdade do curso para criar um anúncio de telessexo.
 
 Segue o roteiro e o áudio.
 
-<audio ref='Telesexo' src="https://raw.githubusercontent.com/ReMattazio/remattazio.github.io/master/assets/mids/spot_sexo.mp3" ></audio>
+<audio ref='Telessexo' src="https://raw.githubusercontent.com/ReMattazio/remattazio.github.io/master/assets/mids/spot_sexo.mp3" ></audio>
+
+![Telessexo](assets/mids/spot_sexo.mp3)
 
 
 | **LOCUÇÃO** | **TÉCNICA** |
