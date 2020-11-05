@@ -11,7 +11,7 @@ Num trabalho da disciplina de português na faculdade a professora pediu um spot
 
 Segue o roteiro e o áudio.
 
-<audio ref='Telessexo' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/spot_sexo.mp3?raw=true" style="width:100%; border-radius: 2rem;">seu navegador nao suporta audio</audio>
+<audio ref='Telessexo' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/spot_sexo.mp3?raw=true" style="width:100%; border-radius: 2rem;">Desculpe, seu navegador não suporta audio.</audio>
 
 | **LOCUÇÃO** | **TÉCNICA** |
 | :-- | :-- |
