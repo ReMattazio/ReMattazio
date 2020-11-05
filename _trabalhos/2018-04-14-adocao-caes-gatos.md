@@ -6,7 +6,7 @@ capa: /assets/img/gatoentrevista2.png
 frase-capa: Adoção responsável é 100% coisa boa. Posts sobre adoção para faculdade.
 ---
 
-Esse trabalho foi feito também no segundo ano de Publicidade e Propaganda.
+Esse trabalho foi feito no segundo ano de Publicidade e Propaganda.
 
 A professora nos pediu posts com o tema de adoção de animais. Trabalhamos em uma dupla de criação e decidimos usar os memes de animais da época. Criamos frases de acordo com cada meme e fizemos as imagens.
 
