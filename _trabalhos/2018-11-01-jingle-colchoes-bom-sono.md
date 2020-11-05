@@ -11,7 +11,7 @@ Em 2018 fiz no Senac São Carlos um curso de Produção de Jingles. Junto ao pro
 
 Segue o áudio, a letra do jingle e a ficha técnica.
 
-<audio ref='Bom Sono' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/colch%C3%B5es_bom_sonhos_jingle.mp3?raw=true" >seu navegador nao suporta audio</audio>
+<audio ref='Bom Sono' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/colch%C3%B5es_bom_sonhos_jingle.mp3?raw=true" style="width:100%; border-radius: 2rem;">Desculpe, seu navegador não suporta audio.</audio>
 
 Colchões Bom Sono
 
