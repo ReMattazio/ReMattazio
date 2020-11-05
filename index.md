@@ -5,4 +5,4 @@ title: My website
 
 Bem vindo ao meu **site**
 
-![maquina](/assets/img/maquina.png){: .mx-auto.d-block :}
+![maquina](/assets/img/maquinaescrever.jpg){: .trab-image :}
