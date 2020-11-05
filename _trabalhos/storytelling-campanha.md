@@ -11,7 +11,7 @@ Na disciplina de Criação de Conteúdo Online tivemos como trabalho usar as dif
 
 Uma das entregas deveria ser de uma campanha transmídia (on e off) e nela o professor nos sugeriu o uso do storytelling. Como há dois anos atrás já me interessava pelas narrativas aceitei o desafio. O storytelling abaixo foi usado como base para o transmídia, a ideia era que a história seria contada conforme as mídias era consumidas. Uma dessas ideias era a divulgação de imagens como a da capa, em que um menino abandonado é visto como apenas um rascunho nas ruas coloridas da cidade.
 
-Segue abaixo o storytelling.
+* Segue abaixo o storytelling.
 
 
 Em quantas pessoas somos no mundo? Quantas são famílias? Quantos menores existem? E no Brasil, somos em quantos? Terra continental de palmeiras e passarinhos, que abriga tantas culturas e pessoas tão diferentes.
