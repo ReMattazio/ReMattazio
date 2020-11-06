@@ -8,7 +8,7 @@ permalink: trabalhos/jingle_colchoes_bom_sono
 ---
 
 
-Em 2018 fiz no Senac São Carlos um curso de Produção de Jingles. Junto ao professor e um grupo de mais quatro alunos, produzimos uma letra para o jingle de uma loja de colchões, a Bom Sono Colchões.
+Em 2018 fiz no Senac São Carlos um curso de Produção de Jingles. Junto ao professor e um grupo de mais quatro alunos, produzimos uma letra para o jingle de uma loja de colchões, a Bom Sono Colchões. E gravamos a música e a declamação.
 
 Segue o áudio, a letra do jingle e a ficha técnica.
 
