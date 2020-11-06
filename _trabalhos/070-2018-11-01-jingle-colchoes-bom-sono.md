@@ -38,6 +38,6 @@ Orientação, direção e apoio técnico: Fernando Galeane
 Edição de som: Fernando Galeane, Felipe Lombino, Ana Laura Christinelli
 
 Ficha técnica da imagem de capa:  
-Texto: Regina Mattazio
-Imagem: ![Tirachard](https://br.freepik.com/fotos/fundo)
+Texto: Regina Mattazio  
+Imagem: ![Tirachard](https://br.freepik.com/fotos/fundo)  
 Produção da imagem: Regina Mattazio
