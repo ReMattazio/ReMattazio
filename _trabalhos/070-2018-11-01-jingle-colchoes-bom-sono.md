@@ -39,5 +39,5 @@ Edição de som: Fernando Galeane, Felipe Lombino, Ana Laura Christinelli
 
 Ficha técnica da imagem de capa:  
 Texto: Regina Mattazio  
-Imagem: ![Tirachard](https://br.freepik.com/fotos/fundo)  
+Imagem: [Tirachard](https://br.freepik.com/fotos/fundo)  
 Produção da imagem: Regina Mattazio
