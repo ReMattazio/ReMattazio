@@ -184,7 +184,7 @@ date_format: "%d/%m/%y"
 timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
-permalink: /pessoal/:year-:month-:day-:title/
+#permalink: /pessoal/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
@@ -200,6 +200,7 @@ defaults:
       layout: "post"
       comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
+      permalink: /pessoal/:year-:month-:day-:title/
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default

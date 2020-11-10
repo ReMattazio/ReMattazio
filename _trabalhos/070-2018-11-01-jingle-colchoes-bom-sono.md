@@ -4,7 +4,7 @@ title: Jingle para loja de colchões
 subtitle: Cursos complementares
 capa: /assets/img/jingle_bom_sono.png
 frase-capa: Tenha um bom sono com Bom Sono Colchões
-permalink: profissional/jingle-colchoes-bom-sono
+permalink: profissional/jingle-para-loja-de-colchoes
 ---
 
 
