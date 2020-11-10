@@ -3,7 +3,6 @@ layout: post
 title: O botão da hortênsia
 subtitle: A fotógrafa mirim
 tags: [foto]
-comments: true
 ---
 
 A fotografia sempre esteve presente na minha família. E quando eu era criança, meu pai era o fotógrafo oficial. Mas claro que eu e meu irmão também queríamos tirar nossas fotos, só que naquela época tirar uma foto ruim era perder aquele registro, afinal as fotos só eram vistas quando o negativo era revelado.  

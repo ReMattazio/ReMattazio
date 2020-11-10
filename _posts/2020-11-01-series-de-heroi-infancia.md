@@ -2,8 +2,6 @@
 layout: post
 title: As séries de heróis da infância
 tags: [temas aleatorios]
-comments: true
-permalink: serie-de-heroi-infancia
 ---
 
 Você se lembra do que assistia quando era criança? Você acompanhava alguma série de super-herói? Você sabe que você pode aprender algumas coisas com essas séries ainda hoje se lembrar delas e eu aposto que você se lembra.

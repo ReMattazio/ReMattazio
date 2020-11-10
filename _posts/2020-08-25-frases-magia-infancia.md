@@ -3,7 +3,6 @@ layout: post
 title: O que levamos da infância
 subtitle: Temas da máquina de escrever
 tags: [frases, maquina de escrever]
-comments: true
 ---
 
 Em agosto desse ano (2020) ganhei minha máquina de escrever. Estava perdida na oficina do meu sogro e meu namorado arrumou um senhorzinho para consertá-la.

@@ -3,7 +3,6 @@ layout: post
 title: Plantinhas
 subtitle: A fotógrafa mirim
 tags: [foto]
-comments: true
 ---
 
 ![lavandinha](/assets/img/IMG_8625.png){: .post-image :}
