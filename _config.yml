@@ -218,6 +218,9 @@ exclude:
   - screenshot.png
   - docs/
   - vendor
+  - feed.xml
+  - beautiful-jekyll-theme.gemspec
+  - staticman.yml
 
 plugins:
   - jekyll-paginate
