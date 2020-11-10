@@ -125,7 +125,7 @@ navbar-img: "/assets/img/mosaico_peca.jpg"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-7VYK3NJSXL"
 
 # Google Tag Manager ID
 #gtm: ""
