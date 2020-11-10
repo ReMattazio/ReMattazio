@@ -2,7 +2,6 @@
 layout: page
 title: Currículo
 subtitle: O que eu andei fazendo academicamente
-[Meu currículo]:
 ---
 
 <!--[![curriculo](/assets/img/curriculo-colorido3.png){: .mx-auto.d-block :}](/assets/img/curriculo-colorido3.png)-->

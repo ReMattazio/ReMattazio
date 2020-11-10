@@ -4,7 +4,7 @@ title: Jingle para suco de caixinha
 subtitle: Cursos complementares
 capa: /assets/img/jingle_top_sucos.png
 frase-capa: Top Sucos para o dia a dia da sua família
-permalink: trabalhos/jingle_top_sucos
+permalink: trabalhos/jingle-top-sucos
 ---
 
 O outro exercício que fizemos no curso de Produção de Jingles foi letra, gravação da música e edição do áudio para um produtor de sucos de caixinha, o Top Sucos.

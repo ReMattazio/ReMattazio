@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Meu Storytelling
+permalink: curriculo/storytelling
 ---
 
 

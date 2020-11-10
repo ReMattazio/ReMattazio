@@ -16,7 +16,7 @@ author: Re Mattazio
 navbar-links:
   Profissional: "profissional"
   Pessoal: "pessoal"
-  Currículo: "currículo"
+  Currículo: "curriculo"
   Contato: "contato"
 
 # --- Logo --- #
@@ -184,7 +184,7 @@ date_format: "%d/%m/%y"
 timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /pessoal/:year-:month-:day-:title/
 paginate: 5
 
 kramdown:

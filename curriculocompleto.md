@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Currículo completo
+permalink: curriculo/completo
 ---
 
 ### Síntese das qualificações  
