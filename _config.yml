@@ -182,6 +182,7 @@ date_format: "%d/%m/%y"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Sao_Paulo"
+language: pt-BR
 markdown: kramdown
 highlighter: rouge
 #permalink: /pessoal/:year-:month-:day-:title/
