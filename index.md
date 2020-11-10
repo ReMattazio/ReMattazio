@@ -6,4 +6,4 @@ description: "Olá! Me chamo Regina Mattazio, sou redatora e esse é meu site. N
 ---
 
 
-![maquina](/assets/img/maquinaescrever.jpg){: .trab-image :}
+![close da maquina de escrever antiga com a frase De quantas formas você escreve?](/assets/img/maquinaescrever.jpg){: .trab-image :}
