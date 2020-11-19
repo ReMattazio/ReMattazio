@@ -8,7 +8,7 @@ permalink: profissional/jingle-para-loja-de-colchoes
 ---
 
 
-Em 2018 fiz no Senac São Carlos um curso de Produção de Jingles. Junto ao professor e um grupo de mais quatro alunos, produzimos uma letra para o jingle de uma loja de colchões, a Bom Sono Colchões. E gravamos a música e a declamação.
+Em 2018 fiz no Senac São Carlos um curso de Produção de Jingles. Junto ao professor e um grupo de mais quatro alunos, produzimos uma letra para o jingle de uma loja de colchões, a Bom Sono Colchões. E gravamos a música e a locução.
 
 Segue o áudio, a letra do jingle e a ficha técnica.
 
@@ -18,14 +18,14 @@ Colchões Bom Sono
 
 Depois de um longo dia,  
 uma boa companhia  
-e o meu colchão bom sono.  
+e o meu Colchão Bom Sono.  
 Posso descansar com conforto e bem estar!  
 
 Pra ter um bom dia,  
 enfrentar a rotina,  
-começa em um colchão bom sono.
+começa em um Colchão Bom Sono.
 
-Durma bem, com bom sono colchões.
+Durma bem, com Bom Sono Colchões.
 
 Bom sono colchões. Tenha bons sonhos!  
 Acesse www<span>.</span>bomsonocolchoes<span>.</span>com<span>.</span>br
