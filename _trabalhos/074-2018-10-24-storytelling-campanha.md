@@ -10,7 +10,8 @@ permalink: profissional/storytelling-para-campanha-social
 
 Na disciplina de Criação de Conteúdo Online tivemos como trabalho usar as diferentes mídias para promover algum movimento social. Meu grupo e eu criamos um canal no Youtube e no Instagram para o projeto que chamamos de "Olho de Peixe", que promoveria a cultura de rua - skate, rap, hip-hop, literatura marginal e grafite.
 
-Uma das entregas deveria ser de uma campanha transmídia (on e off) e nela o professor nos sugeriu o uso do storytelling. Como há três anos já me interessava pelas narrativas aceitei o desafio. O storytelling abaixo foi usado como base para o transmídia, a ideia era que a história seria contada conforme as mídias eram consumidas. Uma dessas ideias era a divulgação de imagens como a da capa, em que um menino abandonado é visto como apenas um rascunho nas ruas coloridas da cidade.
+Uma das entregas deveria ser de uma campanha transmídia (on e off) e nela o professor nos sugeriu o uso do storytelling. Como há três anos já me interessava pelas narrativas, aceitei o desafio. O storytelling abaixo foi usado como base para o transmídia, a ideia era que a história seria contada conforme as mídias eram consumidas.  
+Uma dessas ideias era a divulgação de imagens como a da capa, em que um menino abandonado é visto como apenas um rascunho nas ruas coloridas da cidade.
 
 * Segue abaixo o storytelling.
 
