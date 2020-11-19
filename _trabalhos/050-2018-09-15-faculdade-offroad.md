@@ -7,7 +7,7 @@ frase-capa: Minha terra tem barreiras, mas meu 4x4 vai passar. Cartaz de "escola
 permalink: profissional/trabalho-sobre-off-road
 ---
 
-A exigência desse travalho da faculdade era um cartaz publicitário em tema livre. Por gostar de jipes e de dirigir em estradas de terra, decidi criar uma "escola de off road" e o Autódromo Cross Roads.
+A exigência desse travalho da faculdade era um cartaz publicitário em tema livre. Por gostar de jipes e de dirigir em estradas de terra, decidi criar uma "escola de off road" e o Autódromo Cross Roads.  
 Na ocasião, trabalhavamos como dupla de criação, mas minha dupla pediu que eu fizesse a imagem, o que não funcionou tão bem, afinal os tipos não combinam, tampouco as cores usadas, mas deu pro gasto na disciplina.  
 O texto foi inspirado na famosa "Canção do Exílio" de Gonçalves Dias e traz um pouco dos prazeres e desafios de dirigir offroad.
 
