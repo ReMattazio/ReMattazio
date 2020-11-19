@@ -9,9 +9,9 @@ permalink: profissional/posts-sobre-adocao-de-animais
 
 Esse trabalho foi feito no segundo ano de Publicidade e Propaganda.
 
-A professora nos pediu posts com o tema de adoção de animais. Trabalhamos em uma dupla de criação e decidimos usar os memes de animais da época. Criamos frases de acordo com cada meme e fizemos as imagens.
+A professora nos pediu posts com o tema de adoção de animais. Trabalhamos em uma dupla de criação e usamos memes de animais como ideia principal. Criamos frases seguindo o tema de cada meme e montamos as imagens dos posts.
 
-Seguem os posts:
+Segue o trabalho com imagem e legenda:
 
 ![imagem de um bulldog branco vestindo um collant cor de rosa, uma peruca loura e uma coroa, acima a frase 'Levanta a cabeça rainha e leve sua princesa para o lar. Toda realeza tem amigos fieis.'](/assets/img/rainha2.png){: .trab-image :}  
 <p class="portif-text">
