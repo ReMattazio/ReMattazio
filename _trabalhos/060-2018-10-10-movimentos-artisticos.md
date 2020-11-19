@@ -17,5 +17,5 @@ E para o movimento Minimalismo:
 ![cartaz para o movimento Minimalismo com fundo preto e ao meio um ovo branco com a frase propagando o novo e embaixo a hashtag pp é mais legal](/assets/img/minimalismo.jpeg){: .trab-image :}
 
 Ficha técnica:  
-texto: Regina Mattazio  
+textos: Regina Mattazio  
 imagens: Ana Paula Nascimento Cavalcanti
