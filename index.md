@@ -2,7 +2,7 @@
 layout: page
 title: Regina Mattazio
 subtitle: Redatora
-description: "Olá! Me chamo Regina Mattazio, sou redatora e esse é meu site. Nele você encontra meu portfólio, um blog, meu currículo e meus contatos. Boas vindas!"
+description: "Olá! Eu sou Regina Mattazio, amo escrever e sou redatora. Esse é meu site, aqui você encontra portfólio, blog, currículo e contato. Sinta-se bem vindo!"
 ---
 
 
