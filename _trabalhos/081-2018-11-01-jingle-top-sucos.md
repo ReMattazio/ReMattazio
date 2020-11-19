@@ -7,7 +7,7 @@ frase-capa: Top Sucos para o dia a dia da sua família
 permalink: profissional/jingle-para-suco-de-caixinha
 ---
 
-O outro exercício que fizemos no curso de Produção de Jingles foi letra, gravação da música e edição do áudio para um produtor de sucos de caixinha, o Top Sucos.
+No curso de Produção de Jingles fizemos um segundo exercício com produção da letra, gravação da música e edição do áudio para um produtor de sucos de caixinha, o Top Sucos.
 
 Segue o áudio, a letra do jingle e a ficha técnica.
 
