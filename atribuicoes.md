@@ -22,5 +22,7 @@ E a fonte de máquina de escrever fui eu que fiz, se você a quiser pode entrar 
 
 Para fazer tabelas usei as explicações do [Parker Johansen](https://www.pluralsight.com/guides/working-tables-github-markdown). Thank!
 
+Para os trabalhos que não tinham imagens, criei as capas com os ícones do [ibrandify](https://br.freepik.com/ibrandify). Thanks!
+
 Outras referências você encontra pelo site.  
 Muito obrigada a você que visitou, espero que essas referências também possam te ajudar.
