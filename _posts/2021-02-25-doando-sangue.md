@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Doando sangue
-tags: [textos aleatórios]
+tags: [temas aleatórios]
 ---
-
-Sobre a vez que doei sangue.  
+ 
 
 Eu já doei sangue uma vez. Eu tenho de medo de agulha, toda vez que tenho que fazer exame meu braço fica roxo. Mas criei coragem e fui. São várias etapas antes da doação. Você chega, faz cadastro, depois passa por entrevista e uns exames rápidos. E depois vem a hora da verdade. Da agulha! Eu me sentei lá e fiquei olhando. Não doeu, só ardeu um pouquinho. Me perguntaram o tempo todo se eu estava me sentindo bem e isso me deixou tranquila.  
 
