@@ -5,7 +5,7 @@ permalink: curriculo/completo
 ---
 
 ### Síntese das qualificações  
-Produção de textos.  Gerenciamento e análise de mídias sociais.  Atuação com trabalho voluntário em vendas e controle de estoque.  Participação na elaboração planilhas de orçamento de obras públicas.  Carteira de habilitação.
+Produção de textos. Criação e escrita de roteiro audiovisual.  Atuação com trabalho voluntário em vendas e controle de estoque.  Participação na elaboração planilhas de orçamento de obras públicas.  Carteira de habilitação.
 
 
 ### Formação acadêmica  
@@ -20,10 +20,20 @@ Língua italiana, nível iniciante
 
 
 ### Informática  
-Conhecimento em Pacote Office, AutoCAD, TransCAD, MSProject.
+Conhecimento em Pacote Office, AutoCAD, TransCAD.
+Conhecimento básico em Inkscape e GIMP.
 
 
 ### Histórico profissional  
+**Versão BR - período: (janeiro de 2021 à atual)**  
+(Agência de comunicação 360)  
+Cargo - Redatoria de Midias Digitais  
+Resumo das atividade:  
+- Produção de textos para Facebook e Instagram de órgãos públicos clientes da agência.  
+- Criação e escrita de roteiro para vídeos em mídias on e offline.  
+- Auxílio na criação de peças para mídias offline (minidoor, spot).  
+
+
 **ATMO Prop&Mark – período: (julho à dezembro de 2019).**  
 (Agência de comunicação 360)  
 Cargo – Estagiária de mídia, atendimento e criação.  
@@ -61,7 +71,9 @@ Resumo das atividades:
 
 
 ### Cursos e informações complementares  
-- 2020 - UX Writing. Descola.  
+- 2021 – Criação. Escola Cuca (cursando)  
+- 2021 – Exercícios de escrita literária. PUC Rio (cursando)  
+- 2020 – UX Writing. Descola.  
 - 2020 – Curso de criação em escrita. Go, writers. Cris Lisboa.  
 - 2020 – Neurociência e emoções. Belas Artes.  
 - 2020 – Curso online de Storytelling. Descola.  
