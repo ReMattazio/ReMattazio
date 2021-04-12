@@ -12,11 +12,11 @@ Briefing: O vídeo traz o depoimento dos jovens recém-contratados da Fundet. Co
 | **VÍDEO** | **ÁUDIO** |
 | :-- | :-- |
 | GC: O que é esperança?  <br /> Para Prefeitura de Ribeirão Preto | Inicia trilha |
-| <br /> GC: o jovem é esperança, é futuro. |   |
-| <br /> GC: A Fundet existe  <br /> para apoiar os estudos,  <br /> criar oportunidades,  <br /> e construir caminhos. |   |
-| <br /> GC: Para que o jovem <br /> possa conhecer uma profissão. |   |
-| <br /> GC: E para o jovem esperança é <br /> luz de portas que se abrem. |   |
-| <br /> GC: São olhos que brilham <br /> Porque veem uma vocação. |   |
-| <br /> GC: Veem novas chances <br /> E responsabilidades. |   |
-| <br /> GC: Veem esforço, <br /> mas também conquista <br /> para toda vida. | Sobe trilha  |
+| GC: o jovem é esperança, é futuro. |   |
+| GC: A Fundet existe  <br /> para apoiar os estudos,  <br /> criar oportunidades,  <br /> e construir caminhos. |   |
+| GC: Para que o jovem <br /> possa conhecer uma profissão. |   |
+| GC: E para o jovem esperança é <br /> luz de portas que se abrem. |   |
+| GC: São olhos que brilham <br /> Porque veem uma vocação. |   |
+| GC: Veem novas chances <br /> E responsabilidades. |   |
+| GC: Veem esforço, <br /> mas também conquista <br /> para toda vida. | Sobe trilha  |
 | Assinatura da Prefeitura e da Fundet |   |
