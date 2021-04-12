@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Adoção de cães e gatos
-subtitle: Faculdade
-capa: /assets/img/gatoentrevista2.png
-frase-capa: Adoção responsável é 100% coisa boa. Posts sobre adoção para faculdade.
-permalink: profissional/posts-sobre-adocao-de-animais
+# title: Adoção de cães e gatos
+# subtitle: Faculdade
+# capa: /assets/img/gatoentrevista2.png
+# frase-capa: Adoção responsável é 100% coisa boa. Posts sobre adoção para faculdade.
+# permalink: profissional/posts-sobre-adocao-de-animais
+published: false
 ---
 
 Esse trabalho foi feito no segundo ano de Publicidade e Propaganda.
