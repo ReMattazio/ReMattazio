@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Roteiro Fundet Ribeirão Preto
-permalink: profissional/fundet_ribeiraopreto/roteiro
+permalink: profissional/roteirofundet
 ---
 
 Para quem quer conhecer o roteiro, segue aí.  
