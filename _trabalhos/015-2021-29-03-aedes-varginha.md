@@ -2,7 +2,7 @@
 layout: page
 title: Video Conscientização Aedes
 subtitle: Jobs reais
-capa: /assets/img/fundet.png
+capa: /assets/img/aedesvarginha.png
 frase-capa: Para todos os varginhenses tomarem cuidado com o Aedes.
 permalink: profissional/aedesvarginha
 ---
@@ -11,7 +11,7 @@ Trabalho pedido pela Prefeitura de Varginha para a agência. Era preciso alertar
 
 <video ref='aedes-varginha' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/aedes-varginha.mp4?raw=true" class="trab-image" style="width:100%;">seu navegador nao suporta video</video>
 
-Para quem quer conhecer o roteiro clique [**aqui**](roteiroaedesvarginha.md).  
+Para quem quer conhecer o roteiro clique [**aqui**](roteiroaedesvarginha).  
 
 Ficha técnica:  
 Agência: Versão BR  
