@@ -18,5 +18,5 @@ Agência: Versão BR
 Cliente: Prefeitura de Ribeirão Preto  
 Atendimento: Katy Neves, Bruna Almeida  
 Coordenação: Juliana Giatti  
-Edição: Ariel Martins (https://www.behance.net/arielsposito)  
+Edição: [Ariel Martins](https://www.behance.net/arielsposito)  
 Roteiro e GC: Regina Mattazio
