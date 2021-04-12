@@ -276,5 +276,17 @@
    </a>
   </li>
  {%- endif -%}
+  
+  {%- if site.social-network-links.medium -%}
+  <li class="list-inline-item">
+    <a href="https://medium.com/{{ site.social-network-links.medium }}" title="medium" target="_blank">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-medium fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">medium</span>
+   </a>
+  </li>
+{%- endif -%}
 
 </ul>
