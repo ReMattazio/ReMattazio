@@ -1,9 +1,8 @@
-
 ---
 layout: page
 title: Adoção de pets Prefeitura de Ribeirão Preto
 subtitle: Jobs Reais
-capa: /assets/img/gatoentrevista2.png
+capa: /assets/img/pt-adoção.jpg
 frase-capa: As histórias de dois bichinhos que esperam ser adotados.
 permalink: profissional/posts-adocao-pets-ribeirao
 ---
