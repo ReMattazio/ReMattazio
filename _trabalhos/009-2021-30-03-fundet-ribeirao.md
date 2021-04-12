@@ -12,7 +12,7 @@ Trabalho institucional da agência Versão BR feito para a Prefeitura de Ribeir�
 
 <video ref='fundet_ribeiraopreto' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/fundet_ribeiraopreto.mp4?raw=true" class="trab-image" style="width:100%;">seu navegador nao suporta video</video>
 
-Para quem quer conhecer o roteiro clique [**aqui**](profissional/roteirofundet).  
+Para quem quer conhecer o roteiro clique [**aqui**](roteirofundet).  
 
 Ficha técnica:  
 Agência: Versão BR  
