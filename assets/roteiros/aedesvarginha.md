@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Roteiro Aedes Prefeitura de Varginha
+permalink: assets/roteiros/aedesvarginha
 ---
 
 Para quem quer conhecer o roteiro, segue aí.  
