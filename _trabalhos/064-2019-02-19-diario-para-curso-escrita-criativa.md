@@ -5,6 +5,7 @@ subtitle: Curso de Escrita Criativa
 capa: /assets/img/diario_curso_escrita.png
 frase-capa: Diário da médica chefe da equipe de missão à Saturno.
 permalink: profissional/diario-para-curso-de-escrita
+published: false
 ---
 
 
