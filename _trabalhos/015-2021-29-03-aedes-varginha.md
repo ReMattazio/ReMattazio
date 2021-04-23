@@ -11,7 +11,7 @@ Trabalho pedido pela Prefeitura de Varginha para a agência. Era preciso alertar
 
 <video ref='aedes-varginha' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/aedes-varginha.mp4?raw=true" class="trab-image" style="width:100%;">seu navegador nao suporta video</video>
 
-Para quem quer conhecer o roteiro clique [**aqui**](../roteiro/aedesvarginha.md).  
+Para quem quer conhecer o roteiro clique [**aqui**](aedesvarginha.md).  
 
 Ficha técnica:  
 Agência: Versão BR  
