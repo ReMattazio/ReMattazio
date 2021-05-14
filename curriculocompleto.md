@@ -71,7 +71,7 @@ Resumo das atividades:
 
 
 ### Cursos e informações complementares  
-- 2021 - Workshop Roteiros que fisgam com Márcio Fritzen. Escola Cuca.  
+- 2021 - Workshop Roteiros que Fisgam com Márcio Fritzen. Escola Cuca.  
 - 2021 – Criação. Escola Cuca (cursando)  
 - 2021 – Exercícios de escrita literária. PUC Rio (cursando)  
 - 2020 – UX Writing. Descola.  
