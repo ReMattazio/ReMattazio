@@ -31,7 +31,7 @@ Cargo - Redatoria de Midias Digitais
 Resumo das atividade:  
 - Produção de textos para Facebook e Instagram de órgãos públicos clientes da agência.  
 - Criação e escrita de roteiro para vídeos em mídias on e offline.  
-- Auxílio na criação de peças para mídias offline (minidoor, spot).  
+- Auxílio na criação de peças para mídias offline.  
 
 
 **ATMO Prop&Mark – período: (julho à dezembro de 2019).**  
@@ -71,6 +71,7 @@ Resumo das atividades:
 
 
 ### Cursos e informações complementares  
+- 2021 - Workshop Roteiros que fisgam com Márcio Fritzen. Escola Cuca.  
 - 2021 – Criação. Escola Cuca (cursando)  
 - 2021 – Exercícios de escrita literária. PUC Rio (cursando)  
 - 2020 – UX Writing. Descola.  
