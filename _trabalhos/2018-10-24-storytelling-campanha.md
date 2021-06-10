@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Storytelling para campanha social
-subtitle: Faculdade
-capa: /assets/img/Menino-sentado-ed.png
-frase-capa: Para uma campanha social divulgando cultura de rua, a história de um menino.
-permalink: profissional/storytelling-para-campanha-social
+# title: Storytelling para campanha social
+# subtitle: Faculdade
+# capa: /assets/img/Menino-sentado-ed.png
+# frase-capa: Para uma campanha social divulgando cultura de rua, a história de um menino.
+# permalink: profissional/storytelling-para-campanha-social
+published: false
 ---
 
 
