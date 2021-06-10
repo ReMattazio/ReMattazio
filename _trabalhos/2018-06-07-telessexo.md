@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Spot de telessexo
-subtitle: Faculdade
-capa: /assets/img/spot_telessexo.png
-frase-capa: Um spot divertido de telessexo. "Quem somos? Apaixonados anônimos!"
-permalink: profissional/spot-de-telessexo
+# title: Spot de telessexo
+# subtitle: Faculdade
+# capa: /assets/img/spot_telessexo.png
+# frase-capa: Um spot divertido de telessexo. "Quem somos? Apaixonados anônimos!"
+# permalink: profissional/spot-de-telessexo
+published: false
 ---
 
 
