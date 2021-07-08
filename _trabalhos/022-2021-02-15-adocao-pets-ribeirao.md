@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Adoção de pets Prefeitura de Ribeirão Preto
-subtitle: Jobs Reais
+subtitle: A história do Bolinha e da Lindinha
 capa: /assets/img/pt-adoção.jpg
 frase-capa: As histórias de dois bichinhos que esperam ser adotados.
 permalink: profissional/posts-adocao-pets-ribeirao
 ---
 
-Dois posts para incentivar a adoção responsável de cães e gatos para a Prefeitura de Ribeirão Preto. Eu, Jaque Zanini, e nossa coordenadora de criação, Mel Cândido, criamos um conceito mais humanizado para campanha de doação. Foram dois posts diferentes para os meses de fevereiro e março para as redes sociais do cliente.  
+Dois posts para incentivar a adoção responsável de cães e gatos para a Prefeitura de Ribeirão Preto. Eu, Jaque Zanini, e nossa coordenadora de criação, Mel Cândido, criamos um conceito mais humanizado para campanha de doação.  
 
 Segue o trabalho com imagem e legenda:
 
