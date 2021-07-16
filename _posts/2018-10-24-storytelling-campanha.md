@@ -4,11 +4,6 @@ title: a história de um menino
 tags: [temas aleatorios]
 ---
 
-Esse texto foi feito para um disciplina do curso de Publicidade. Ele conta a história de transformação de um menino. O texto seria usado para embasar uma campanha sobre um canal no YouTube que falava sobre cultura de rua.  
-
-* Segue abaixo o storytelling.
-
-
 Em quantas pessoas somos no mundo? Quantas são famílias? Quantos menores existem? E no Brasil, somos em quantos? Terra continental de palmeiras e passarinhos, que abriga tantas culturas e pessoas tão diferentes.
 
 E eu, quem era? Mais um perdido no mundo, talvez. Entre tantas pessoas, tantas culturas e cores, eu era preto no branco, esquecido, encardido, largado no mundo... Eu não era visto. Eu podia até fazer parte do seu dia a dia, mas você não me via... É como se eu não existisse, tá ligado?
