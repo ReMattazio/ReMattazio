@@ -13,7 +13,7 @@ permalink: profissional/aedesvarginha
 Ficha técnica:  
 Agência: Versão BR  
 Cliente: Prefeitura de Varginha  
-Atendimento: Camila Muller
+Atendimento: Camila Muller  
 Coordenação: Juliana Giatti  
 Edição: [Ariel Martins](https://www.behance.net/arielsposito)  
 Roteiro e GC: Regina Mattazio
