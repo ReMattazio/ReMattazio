@@ -4,11 +4,6 @@ title: O brasileiro
 tags: [clube de escrita]
 ---
 
-Mais um texto para o Clube de Escrita. Dessa vez a proposta do mês eram textos áridos, como notícias de assassinato, estatísticas tristes e outras coisas. Nosso primeiro desafio era transformar em texto a estatística de que o brasileiro está mais depressivo e ansioso. Só saiu de mim por poesia, inspirada na situação de um amigo.  
-
-
-O brasileiro
-
 
 Brasileiro é  
 É aperto de mão.  
