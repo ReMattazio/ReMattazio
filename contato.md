@@ -7,9 +7,9 @@ Esse site foi feito com carinho e nele você encontrou o que eu fiz profissional
 
 Então, aqui está você e acredito que tenha motivo. Seja qual for, você pode me contar? Eu gostaria de saber.
 
-Sinta-se livre para escolher como conversar comigo, pelo formulário abaixo, ou pelas redes sociais e e-mail que estão no rodapé da página (tem Facebook, Instagram, LinkedIn, e Whatsapp).
+Sinta-se livre para escolher como conversar comigo, pelo formulário abaixo, ou pelas redes sociais e e-mail que estão no rodapé da página.  
 
-Obrigada por visitar e volte outras vezes, eu atualizo o blog e os trabalhos profissionais conforme as oportunidades surgem.
+Obrigada por visitar e volte outras vezes, estamos sempre em construção.
 
 Formulário:
 
