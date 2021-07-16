@@ -7,10 +7,6 @@ frase-capa: As histórias de dois bichinhos que esperam ser adotados.
 permalink: profissional/posts-adocao-pets-ribeirao
 ---
 
-Dois posts para incentivar a adoção responsável de cães e gatos para a Prefeitura de Ribeirão Preto. Eu, Jaque Zanini, e nossa coordenadora de criação, Mel Cândido, criamos um conceito mais humanizado para campanha de doação.  
-
-Segue o trabalho com imagem e legenda:
-
 ![imagem de um post com o texto Oi, eu sou o Bolinha, fiquei muito tempo num terreno, com fome e sede. Me trouxeram para cá, com um monte de amigos, água e comida gostosa. Mas já ouvi histórias que eu posso ir para uma casa, com uma família. Sonho sempre com isso, você pode me buscar? E a imagem de um cachorrinho amarelo num gramado com a frase leve um amiguinho para casa.'](/assets/img/post1-adocao.png){: .trab-image :}  
 
 
