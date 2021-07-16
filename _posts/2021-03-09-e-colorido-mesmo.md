@@ -4,11 +4,6 @@ title: É colorido mesmo
 tags: [clube de escrita]
 ---
 
-Mais um texto do clube de escrita. O desafio era escrever sobre uma cor, mas depois de começar diversos textos sobre uma única cor, eu desisti, porque descobri que a vida é colorida mesmo, não da para ficar com uma cor só.  
-
-
-## É colorido mesmo  
-
 
 É difícil escolher uma única cor, porque a vida é feita de tantas cores. Da infância, da velhice, das pessoas ao redor, das situações, dos sentimentos, das casas, quintais e nuvens. São tantas cores, por que escolher uma só?  
 
