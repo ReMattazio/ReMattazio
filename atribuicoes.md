@@ -7,7 +7,7 @@ Esse site não foi feito sozinho com coisas produzidas só por mim, então agrad
 
 
 O [Dean Attali](https://deanattali.com/) que fez o Beautiful Jekyll e o disponibilizou gratuitamente. Thanks a lot Dean!  
-O [Rafael Rocha](https://github.com/rahcor) que ajudou a modificar o site e deixá-lo mais bonito e funcional. Muito obrigada!
+O Rafael R. que ajudou a modificar o site e deixá-lo mais bonito e funcional. Muito obrigada!
 
 
 O Ghodor que fez o GIF do John Travolta. Thanks!  
