@@ -71,6 +71,7 @@ Resumo das atividades:
 
 
 ### Cursos e informações complementares  
+- 2021 - Estratégias e Carreira no Novo Mercado Publicitário com Hugo Rodrigues. Curseria.
 - 2021 - Workshop Roteiros que Fisgam com Márcio Fritzen. Escola Cuca.  
 - 2021 – Criação. Escola Cuca  
 - 2021 – Exercícios de escrita literária. PUC Rio  
