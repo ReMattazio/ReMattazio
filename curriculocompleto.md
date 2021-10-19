@@ -9,6 +9,8 @@ Produção de textos. Criação e escrita de roteiro audiovisual.  Atuação com
 
 
 ### Formação acadêmica  
+Redação Publicitária - Miami Ad School Brasil - iniciado em outubro de 2021
+
 Comunicação Social – Publicidade e Propaganda, Centro Universitário Central Paulista – UNICEP – concluído em junho de 2020.
 
 Engenharia Civil, Universidade Federal de São Carlos – UFSCar – concluído em dezembro de 2015.
