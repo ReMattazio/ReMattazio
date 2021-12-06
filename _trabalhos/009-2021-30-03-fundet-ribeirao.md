@@ -5,6 +5,7 @@ subtitle: A Prefeitura de Ribeirão Preto valoriza seus jovens.
 capa: /assets/img/fundet.png
 frase-capa: O futuro de Ribeirão Preto são seus jovens.
 permalink: profissional/fundet_ribeiraopreto
+published: false
 ---
 
 <video ref='fundet_ribeiraopreto' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/fundet_ribeiraopreto.mp4?raw=true" class="trab-image" style="width:100%;">seu navegador nao suporta video</video>
