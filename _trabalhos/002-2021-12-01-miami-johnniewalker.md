@@ -2,7 +2,7 @@
 layout: page
 title: Johnnie Walker
 subtitle: A essência de Johnnie Walker.
-capa: /assets/img/the_barrel.jpeg
+capa: /assets/img/the-barrel.png
 frase-capa: Um novo jeito de Johnnie Walker
 permalink: profissional/miami-johnniewalker
 ---
