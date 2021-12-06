@@ -5,6 +5,7 @@ subtitle: Faculdade
 capa: /assets/img/jipe.jpg
 frase-capa: Minha terra tem barreiras, mas meu 4x4 vai passar.
 permalink: profissional/trabalho-sobre-off-road
+published: false
 ---
 
 Texto inspirado na Canção do Exílio de Gonçalves Dias para curso de condução offroad. E a tentativa de fazer a arte.
