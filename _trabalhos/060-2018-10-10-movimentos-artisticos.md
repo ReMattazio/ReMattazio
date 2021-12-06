@@ -5,6 +5,7 @@ subtitle: Faculdade
 capa: /assets/img/minimalismo.jpeg
 frase-capa: Publicidade e propaganda é mais legal.
 permalink: profissional/movimentos-artisticos
+published: false
 ---
 
 
