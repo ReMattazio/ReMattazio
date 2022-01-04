@@ -5,6 +5,7 @@ subtitle: Cursos complementares
 capa: /assets/img/jingle_top_sucos.png
 frase-capa: Top Sucos para o dia a dia da sua família
 permalink: profissional/jingle-para-suco-de-caixinha
+published: false
 ---
 
 Jingle para o Top Sucos.
