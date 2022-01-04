@@ -18,5 +18,5 @@ Ficha técnica:
 Cliente: Johnnie Walker  
 Agência: Miami Ad School   
 Diretora de criação: Mariana Villela  
-Direção de arte: Ana Moraes  
+Direção de arte: [Ana Moraes](https://anaflaviamoraes.com.br/)  
 Textos: Regina Mattazio
