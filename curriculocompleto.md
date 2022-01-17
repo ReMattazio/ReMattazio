@@ -27,7 +27,7 @@ Conhecimento básico em Inkscape e GIMP.
 
 
 ### Histórico profissional  
-**Versão BR - período: (janeiro à setembto de 2021)**  
+**Versão BR - período: (janeiro à setembro de 2021)**  
 (Agência de comunicação 360)  
 Cargo - Redatoria de Midias Digitais  
 Resumo das atividade:  
