@@ -27,9 +27,17 @@ Conhecimento básico em Inkscape e GIMP.
 
 
 ### Histórico profissional  
+
+**Inpress Porter Novelli - período: (outubro de 2021 à atual)**  
+(Agência de comunicação 360)  
+Cargo - Freelancer de redação em midias digitais  
+Resumo das atividade:  
+- Produção de textos para redes sociais de Ajinomoto, MAPFRE e outros.    
+- Auxílio na geração de ideias.  
+
 **Versão BR - período: (janeiro à setembro de 2021)**  
 (Agência de comunicação 360)  
-Cargo - Redatoria de Midias Digitais  
+Cargo - Redatora de midias digitais  
 Resumo das atividade:  
 - Produção de textos para Facebook e Instagram de órgãos públicos clientes da agência.  
 - Criação e escrita de roteiro para vídeos em mídias on e offline.  
