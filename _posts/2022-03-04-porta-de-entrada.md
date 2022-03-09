@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Porta de entrada
+title: A porta de entrada
 tags: [clube de escrita]
 ---
 
-#### A porta de entrada  
+
 Vem, entra. A casa é sua, mas não repara na bagunça. Afinal, quem é que não faz bagunça? Todo mundo tem a sua. Menor. Maior. Tem gente que fala que não é bagunça, é organização. Tem aqueles que admitem mesmo: é bagunça e ponto.  
 
 
