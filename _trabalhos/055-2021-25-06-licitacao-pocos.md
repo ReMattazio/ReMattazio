@@ -21,7 +21,6 @@ Canva:
 
 Portfolio:  
 <object data="/assets/mids/Pocos_portfolio.pdf" width="1000" height="1000" type='application/pdf'></object>
-[Aqui](https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/Pocos_portfolio.pdf)
 
 
 Ficha técnica:  
