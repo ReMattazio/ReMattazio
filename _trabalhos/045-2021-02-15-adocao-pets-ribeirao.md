@@ -18,5 +18,5 @@ Agência: Versão BR
 Cliente: Prefeitura de Ribeirão Preto  
 Atendimento: Rodrigo Vincent  
 Coordenação: Mel Cândido  
-Direção de arte: Jaqueline Zanini  
+Direção de arte: [Jaqueline Zanini](https://www.behance.net/jack_zanin6bb6)  
 Textos: Regina Mattazio
