@@ -20,7 +20,7 @@ Canva:
 <video ref='VTPocos' controls src="https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/Pocos_Experiencia_instantanea.mp4?raw=true" class="trab-image" style="width:100%;">seu navegador nao suporta video</video>  
 
 Portfolio:  
-<object data="{{https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/Pocos_portfolio.pdf}}" width="1000" height="1000" type='application/pdf'></object>}  
+[Aqui](https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/Pocos_portfolio.pdf)
 
 
 Ficha técnica:  
