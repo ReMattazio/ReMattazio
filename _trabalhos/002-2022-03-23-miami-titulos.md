@@ -2,7 +2,7 @@
 layout: page
 title: Títulos
 subtitle: Vários títulos, entre e descubra.
-capa: /assets/img/flamingo.gif
+capa: /assets/img/flamingo.jpg
 frase-capa: Títulos
 permalink: profissional/miami-titulos
 ---
@@ -17,9 +17,9 @@ Miami Ad School:
 
 Burger King:  
 
-![sequencia de tres telas de celular com misterio bk mega stacker.'](/assets/img/bk_titulo_1.png.png){: .trab-image :}  
-![sequencia de tres telas de celular com misterio bk veggie.'](/assets/img/bk_titulo_2.png.png){: .trab-image :}  
-![sequencia de tres telas de celular com misterio bk whopper.'](/assets/img/bk_titulo_3.png.png){: .trab-image :}  
+![sequencia de tres telas de celular com misterio bk mega stacker.'](/assets/img/bk_titulo_1.png){: .trab-image :}  
+![sequencia de tres telas de celular com misterio bk veggie.'](/assets/img/bk_titulo_2.png){: .trab-image :}  
+![sequencia de tres telas de celular com misterio bk whopper.'](/assets/img/bk_titulo_3.png){: .trab-image :}  
 
 Café Orfeu:  
 
