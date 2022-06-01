@@ -2,7 +2,7 @@
 layout: page
 title: Títulos
 subtitle: Vários títulos, entre e descubra.
-capa: /assets/img/latinhas_guarana.gif
+capa: /assets/img/flamingo.gif
 frase-capa: Títulos
 permalink: profissional/miami-titulos
 ---
