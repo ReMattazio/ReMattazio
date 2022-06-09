@@ -49,4 +49,5 @@ Ficha técnica:
 Agência: Miami Ad School   
 Diretora de criação: Jessyca Silva  
 Direção de arte: [Ana Moraes](https://anaflaviamoraes.com.br/) e Regina Mattazio  
-Textos: Regina Mattazio
+Textos: Regina Mattazio  
+Capa: [Freepik](https://br.freepik.com/fotos-vetores-gratis/aves)
