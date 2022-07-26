@@ -4,7 +4,7 @@ layout: page
 *subtitle: Haters Gonna Hate
 *capa: /assets/img/karols.png
 *frase-capa: Um job bastante polêmico.
-*permalink: profissional/cuca-conka
+*permalink: profissional/cuca-conka*
 published: false
 ---
 
