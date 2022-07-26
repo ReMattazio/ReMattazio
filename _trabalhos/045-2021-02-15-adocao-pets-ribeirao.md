@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Adoção de pets Prefeitura de Ribeirão Preto
-subtitle: A história do Bolinha e da Lindinha
-capa: /assets/img/pt-adoção.jpg
-frase-capa: As histórias de dois bichinhos que esperam ser adotados.
-permalink: profissional/posts-adocao-pets-ribeirao
+*title: Adoção de pets Prefeitura de Ribeirão Preto
+*subtitle: A história do Bolinha e da Lindinha
+*capa: /assets/img/pt-adoção.jpg
+*frase-capa: As histórias de dois bichinhos que esperam ser adotados.
+*permalink: profissional/posts-adocao-pets-ribeirao
+published: false
 ---
 
 ![imagem de um post com o texto Oi, eu sou o Bolinha, fiquei muito tempo num terreno, com fome e sede. Me trouxeram para cá, com um monte de amigos, água e comida gostosa. Mas já ouvi histórias que eu posso ir para uma casa, com uma família. Sonho sempre com isso, você pode me buscar? E a imagem de um cachorrinho amarelo num gramado com a frase leve um amiguinho para casa.'](/assets/img/post1-adocao.png){: .trab-image :}  
