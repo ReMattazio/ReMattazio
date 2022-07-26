@@ -4,7 +4,7 @@ layout: page
 *subtitle: Cuide da sua casa, cuide da sua vida.
 *capa: /assets/img/aedesvarginha.png
 *frase-capa: Para todos os varginhenses tomarem cuidado com o Aedes.
-*permalink: profissional/aedesvarginha
+*permalink: profissional/aedesvarginha*
 published: false
 ---
 
