@@ -1,10 +1,10 @@
 ---
 layout: page
-# title: Globoplay Karol Conká
-# subtitle: Haters Gonna Hate
-# capa: /assets/img/karols.png
-# frase-capa: Um job bastante polêmico.
-# permalink: profissional/cuca-conka
+title: Globoplay Karol Conká
+subtitle: Haters Gonna Hate
+capa: /assets/img/karols.png
+frase-capa: Um job bastante polêmico.
+permalink: profissional/cuca-conka
 published: false
 ---
 
