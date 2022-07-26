@@ -1,10 +1,10 @@
 ---
 layout: page
-# title: Video Conscientização Aedes
-# subtitle: Cuide da sua casa, cuide da sua vida.
-# capa: /assets/img/aedesvarginha.png
-# frase-capa: Para todos os varginhenses tomarem cuidado com o Aedes.
-# permalink: profissional/aedesvarginha
+title: Video Conscientização Aedes
+subtitle: Cuide da sua casa, cuide da sua vida.
+capa: /assets/img/aedesvarginha.png
+frase-capa: Para todos os varginhenses tomarem cuidado com o Aedes.
+permalink: profissional/aedesvarginha
 published: false
 ---
 
