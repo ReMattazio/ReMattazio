@@ -4,7 +4,7 @@ layout: page
 *subtitle: A história do Bolinha e da Lindinha
 *capa: /assets/img/pt-adoção.jpg
 *frase-capa: As histórias de dois bichinhos que esperam ser adotados.
-*permalink: profissional/posts-adocao-pets-ribeirao
+*permalink: profissional/posts-adocao-pets-ribeirao*
 published: false
 ---
 
