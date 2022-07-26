@@ -8,6 +8,7 @@ permalink: profissional/cuca-conka
 published: false
 ---
 
+
 Esse job tem uma ideia de execução a mais: uma imagem da capa do lançamento do Documentário da Karol Conká para ser repostada junto com a hashtag #HatersGonnaHateKarol. Para todas as contas que repostassem, a Globopplay sortearia assinaturas de 1 ano.  
 
 Segue o board:  
