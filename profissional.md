@@ -4,4 +4,4 @@ title: Portfólio
 subtitle: Jobs, freelas, estudos
 ---
 
-<p class="portif-text"> Cada imagem é um trabalho, clique na que interessar </p>
+<p class="portif-text"> Bem-vinde ao meu portfólio! </p>
