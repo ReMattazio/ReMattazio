@@ -13,6 +13,8 @@ Segue o board:
 
 ![imagem com fundo bege. Com o título Johnnie Walker The Barrel.'](/assets/img/JohnnieWalker_Perfumes_Board_v3.png){: .trab-image :}  
 
+![imagem com fundo bege. Com o texto do board.'](/assets/img/JohnnieWalker_Perfumes_Board_texto.png){: .trab-image :}  
+
 
 Ficha técnica:  
 Cliente: Johnnie Walker  
