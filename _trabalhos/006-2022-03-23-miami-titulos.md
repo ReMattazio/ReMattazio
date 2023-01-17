@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Títulos
-subtitle: Vários títulos, entre e descubra.
+subtitle: Exercícios.
 capa: /assets/img/flamingo.jpg
 frase-capa: Títulos
 permalink: profissional/miami-titulos
