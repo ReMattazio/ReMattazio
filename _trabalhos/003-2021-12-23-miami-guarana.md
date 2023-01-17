@@ -13,7 +13,7 @@ Segue o board:
 
 ![imagem com fundo verde. Com o título Guarana com Simpatia.'](/assets/img/Guarana_Board_1.png){: .trab-image :}  
 ![imagem com fundo bege. Com o título Guarana com Simpatia e outras imagens.'](/assets/img/Guarana_Board.png){: .trab-image :}  
-
+![imagem com fundo verde e textos sobre problema insight e solucao.'](/assets/img/Guarana_Board texto.png){: .trab-image :}
 E os posters:  
 
 ![imagem com fundo vermelho. Com o título Amor e lambibeijo.'](/assets/img/Guarana_KV_Vermelho_Final.png){: .trab-image :}  
