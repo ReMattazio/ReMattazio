@@ -44,7 +44,7 @@ Segue o título com layout:
 ![imagem com a amazonia de fundo.'](/assets/img/natura_salve_amazonia.jpeg){: .trab-image :}  
 
 Ativação:  
-![imagem com a amazonia de fundo.'](/assets/img/natura_salve_amazonia.jpeg){: .trab-image :}  
+![imagem com a amazonia de fundo.'](/assets/img/ativacao_natura.png){: .trab-image :}  
 
 
 Ficha técnica:  
