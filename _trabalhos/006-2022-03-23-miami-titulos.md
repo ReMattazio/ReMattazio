@@ -15,10 +15,6 @@ Miami Ad School:
 ![imagem com fundo rosa, fotos de Nizan Serpa e Olivetto.'](/assets/img/miami_titulo_2.png){: .trab-image :}  
 ![imagem com fundo de buscador do google.'](/assets/img/miami_titulo_3.png){: .trab-image :}  
 
-Natura:
-
-![imagem com a amazonia de fundo.'](/assets/img/natura_salve_amazonia.jpeg){: .trab-image :}  
-
 Burger King:  
 
 ![sequencia de tres telas de celular com misterio bk mega stacker.'](/assets/img/bk_titulo_1.png){: .trab-image :}  
