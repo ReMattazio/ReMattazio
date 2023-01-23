@@ -9,7 +9,7 @@ permalink: profissional/miami-naturaamazonia
 
 Em 2020 a fumaça das queimadas no Brasil chegaram à Patagônia. A cada segundo de 2021, 18 árvores foram derrubadas. Em 2022 a Espanha sofreu com a baixa na safra de olivas devido ao aumento das temperaturas. A Floresta Amazônica de pé é fundamental à vida em todos os países.  
 
-###Conceito  
+### Conceito  
 Salve a Amazônia. Salve a Patagônia.  
 Salve a Amazônia. Salve os Andes.  
 Salve a Amazônia. Salve a Espanha.  
@@ -17,7 +17,7 @@ Salve a Amazônia. Salve o Ártico.
 Salve a Amazônia. Salve o mundo.  
 
 
-###Roteiros  
+### Roteiros  
 Esta é Bangkok, capital da Tailândia. Lar de 14 milhões de pessoas. Principal centro financeiro e cultural do país.  
 Veneza, na Itália, tem mais de 100 ilhas e 270 mil pessoas que as habitam. É um Patrimônio Mundial.  
 Maldivas. Uma nação com mais de mil ilhas. De beleza singular. Lar de 540 mil pessoas.  
@@ -32,7 +32,7 @@ Toda essa vida, essas espécies, essas belezas e essas pesquisas estão ameaçad
 Quando você protege a Amazônia, você protege todas as belezas do mundo. Salve a Amazônia. Salve o Ártico. Salve a Antártida. Salve a Patagônia.  
 
 
-###Títulos  
+### Títulos  
 Em 30 anos o desmatamento da Amazônia derreteu metade das geleiras nos Andes. Quando você salva a Amazônia, você salva os Andes.  
 
 Em um ano, o desmatamento na Amazônia derreteu 15 centímetros de todas as geleiras dos polos. Quando você salva a Amazônia, você salva o mundo.  
@@ -43,7 +43,7 @@ Segue o título com layout:
 
 ![imagem com a amazonia de fundo.'](/assets/img/natura_salve_amazonia.jpeg){: .trab-image :}  
 
-###Ativação:  
+### Ativação:  
 ![imagem com a amazonia de fundo.'](/assets/img/ativacao_natura.png){: .trab-image :}  
 
 
