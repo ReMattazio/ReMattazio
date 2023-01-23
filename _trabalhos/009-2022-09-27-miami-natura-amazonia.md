@@ -39,8 +39,6 @@ Em um ano, o desmatamento na Amazônia derreteu 15 centímetros de todas as gele
 
 O desmatamento da Amazônia fez a Espanha passar pela maior seca em 1500 anos. Quando você salva a Amazônia, você salva a Espanha.  
 
-Segue o título com layout:  
-
 ![imagem com a amazonia de fundo.'](/assets/img/natura_salve_amazonia.jpeg){: .trab-image :}  
 
 ### Ativação:  
@@ -48,8 +46,8 @@ Segue o título com layout:
 
 
 Ficha técnica:  
-Cliente: Natura   
-Agência: Miami Ad School   
+Cliente: Natura  
+Agência: Miami Ad School  
 Diretora de criação: Rafael Alves  
 Direção de arte: [Ana Moraes](https://anaflaviamoraes.com.br/)  
 Textos: Regina Mattazio 
