@@ -18,7 +18,7 @@ Segue o board:
 
 Ficha técnica:  
 Cliente: SOS Amazônia  
-Agência: Miami Ad School  
+Agência: M.AD School  
 Diretores de Criação: Michelle Gorodski e Carlos Yanke  
-Diretora de arte: Ana Moraes  
-Redatores: Leandro Borges, Luiz Felipe Carvalho, Regina Mattazio e Tamires Galvão
+Direção de arte: Ana Moraes  
+Textos: Leandro Borges, Luiz Felipe Carvalho, Regina Mattazio e Tamires Galvão
