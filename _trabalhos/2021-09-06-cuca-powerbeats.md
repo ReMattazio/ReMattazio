@@ -5,6 +5,7 @@ subtitle: Um fone que te dá superpoderes.
 capa: /assets/img/beats_powerbeats.jpg
 frase-capa: Um job sobre os superpoderes que um fone pode te dar
 permalink: profissional/cuca-powerbeats
+published: false
 ---
 
 Você já reparou que quando escuta sua música preferida o tempo passa num tempo diferente? Ou que quando você faz exercícios ouvindo algo animado seu potêncial é maior? Essas e outras tantas sensações que a música te passa quando o fone de ouvido te permite escutar o que você quer escutar, de maneira clara e sem interrupções foi o mote dessa campanha de lançamento. Porque tudo isso que o fone de ouvido ajuda a trazer da música são algo além do normal, são superpoderes.  
