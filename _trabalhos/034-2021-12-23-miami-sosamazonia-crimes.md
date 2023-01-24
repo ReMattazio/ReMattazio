@@ -2,7 +2,7 @@
 layout: page
 title: SOS Amazônia
 subtitle: Escutando a natureza.
-capa: /assets/img/latinhas_guarana.gif
+capa: /assets/img/crimes_sos.png
 frase-capa: Crimes sem solução.
 permalink: profissional/miami-sosamazonia-crimes
 ---
