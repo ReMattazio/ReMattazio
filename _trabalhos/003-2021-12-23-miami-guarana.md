@@ -22,7 +22,7 @@ E os posters:
 
 Ficha técnica:  
 Cliente: Johnnie Walker  
-Agência: Miami Ad School   
+Agência: M.AD School   
 Diretora de criação: Mariana Villela  
 Direção de arte: [Ana Moraes](https://anaflaviamoraes.com.br/)  
 Textos: Regina Mattazio
