@@ -28,7 +28,7 @@ Conhecimento básico em Inkscape e GIMP.
 
 ### Histórico profissional  
 
-**Inpress Porter Novelli - período: (outubro de 2021 à atual)**  
+**Inpress Porter Novelli - período: (outubro de 2021 à março de 2023)**  
 (Agência de comunicação 360)  
 Cargo - Freelancer de redação em midias digitais  
 Resumo das atividade:  
