@@ -21,7 +21,7 @@ E os posters:
 ![imagem com fundo roxo. Com o título Misterio e meu signo de peixes.'](/assets/img/Guarana_KV_Roxo_Final.png){: .trab-image :}  
 
 Ficha técnica:  
-Cliente: Johnnie Walker  
+Cliente: Guaraná  
 Agência: M.AD School   
 Diretora de criação: Mariana Villela  
 Direção de arte: [Ana Moraes](https://anaflaviamoraes.com.br/)  
