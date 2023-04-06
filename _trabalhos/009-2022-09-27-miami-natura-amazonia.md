@@ -17,7 +17,7 @@ Salve a Amazônia. Salve o Ártico.
 Salve a Amazônia. Salve o mundo.  
 
 
-### Roteiros  
+### Sinopses  
 Esta é Bangkok, capital da Tailândia. Lar de 14 milhões de pessoas. Principal centro financeiro e cultural do país.  
 Veneza, na Itália, tem mais de 100 ilhas e 270 mil pessoas que as habitam. É um Patrimônio Mundial.  
 Maldivas. Uma nação com mais de mil ilhas. De beleza singular. Lar de 540 mil pessoas.  
