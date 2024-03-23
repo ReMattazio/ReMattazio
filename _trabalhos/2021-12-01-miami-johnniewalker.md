@@ -5,6 +5,7 @@ subtitle: A essência de Johnnie Walker.
 capa: /assets/img/the-barrel.png
 frase-capa: Um novo jeito de Johnnie Walker
 permalink: profissional/miami-johnniewalker
+published: false
 ---
 
 Para conversar com mais pessoas e se tornar atemporal. O novo formato de Johnnie Walker. The Barrel.  
