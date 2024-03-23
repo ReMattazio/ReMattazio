@@ -5,6 +5,7 @@ subtitle: A right of style.
 capa: /assets/img/D_AD_Google_Ana_Regina_Tamires_Pasta_012.png
 frase-capa: Google - A right of stile
 permalink: profissional/dad-google
+published: false
 ---
 
 Nosso trabalho para o D&AD New Blood Awards em 2022
