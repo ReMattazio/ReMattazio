@@ -5,6 +5,7 @@ subtitle: Isso é Poços de Caldas. É o que nos faz avançar.
 capa: /assets/img/Pocos_capa.png
 frase-capa: Avança Poços de Caldas.
 permalink: profissional/licitapocos
+published: false
 ---
 
 Revista:  
