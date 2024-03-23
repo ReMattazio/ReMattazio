@@ -2,7 +2,7 @@
 layout: page
 title: Os Gemeos
 subtitle: Nosso Shortlist do ACD Young Ones 2023.
-capa: /assets/img/Arte_Shortlist_ADC.png
+capa: /assets/img/Arte_Shortlist_ADC_menor.png
 frase-capa: IA faz arte
 permalink: profissional/miamiacd-osgemeos
 ---
