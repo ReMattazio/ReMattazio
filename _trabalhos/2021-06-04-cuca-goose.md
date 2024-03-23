@@ -5,6 +5,7 @@ subtitle: Todo dia é dia de Goose.
 capa: /assets/img/gooseipa.png
 frase-capa: Um job de muito lúpulo
 permalink: profissional/cuca-goose
+published: false
 ---
 
 Esse job tinha como objetivo o lançamento da Goose IPA. Depois de muito brainstorm e degustação a ideia que surgiu foi de um novo calendário para o ano, com 213 dias, que são os dias em que se pode apreciar uma boa cerveja.  
