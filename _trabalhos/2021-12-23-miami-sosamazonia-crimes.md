@@ -5,6 +5,7 @@ subtitle: Escutando a natureza.
 capa: /assets/img/crimes_sos.png
 frase-capa: Crimes sem solução.
 permalink: profissional/miami-sosamazonia-crimes
+published: false
 ---
 
 De janeiro a setembro de 2022 a Floresta Amazônica sofreu desmatamento equivalente a 7 vezes a cidade do Rio de Janeiro. A maior devastação em 15 anos.  
