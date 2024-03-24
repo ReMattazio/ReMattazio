@@ -16,7 +16,7 @@ author: Re Mattazio
 navbar-links:
   Profissional: "profissional"
   Pessoal: "pessoal"
-  Currículo: "curriculo"
+#  Currículo: "curriculo"
   Contato: "contato"
 
 # --- Logo --- #
