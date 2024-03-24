@@ -3,13 +3,13 @@ layout: page
 title: Obrigada por me visitar!
 ---
 
-Esse site foi feito com carinho e nele você encontrou o que eu fiz profissionalmente e os meus textos pessoais. Espero que tenha se divertido e encontrado textos de seu interesse.
+Olá! Eu sou a Regina (você provavelmente tem uma avó ou tia ou com esse nome, mas eu sou mais nova que isso).  
 
-Então, aqui está você e acredito que tenha motivo. Seja qual for, você pode me contar? Eu gostaria de saber.
+Sou redatora e me considero escritora nas horas vagas. Me divirto fazendo títulos, posts e ainda estou aprendendo a fazer um bom roteiro. Gosto de trabalhar em equipe e adoro um brain sem julgamentos.  
 
-Sinta-se livre para escolher como conversar comigo, pelo formulário abaixo, ou pelas redes sociais e e-mail que estão no rodapé da página.  
+Também sou formada em Engenharia Civil, o que me ajuda a traduzir uns engenherês e não ter medo de números e tabelas.  
 
-Obrigada por visitar e volte outras vezes, estamos sempre em construção.
+Me chama pra um café, pra um pingado ou um cappuccino!  
 
 Formulário:
 
