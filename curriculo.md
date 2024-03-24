@@ -2,6 +2,7 @@
 layout: page
 title: Currículo
 subtitle: O que eu andei fazendo
+published: false
 ---
 
 <!--[![curriculo](/assets/img/curriculo-colorido6.png){: .mx-auto.d-block :}](/assets/img/curriculo-colorido6.png)-->
