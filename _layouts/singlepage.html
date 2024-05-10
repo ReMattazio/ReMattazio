@@ -1,0 +1,34 @@
+---
+layout: page
+---
+
+{% assign trabalhos = paginator.trabalhos | default: site.trabalhos %}
+
+<div class="posts-list">
+  {% for post in trabalhos %}
+  <article class="post-preview">
+    <div>
+      <img src="{{ post.capa | absolute_url }}" alt="Post thumbnail" class="portif-image">
+      <p class="portif-text">{{ post.frase-capa }}
+      </p>
+    </div>
+   </article>
+  {% endfor %}
+</div>
+
+{{ content }}
+
+{% if paginator.total_pages > 1 %}
+<ul class="pagination main-pager">
+  {% if paginator.previous_page %}
+  <li class="page-item previous">
+    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="page-item next">
+    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
