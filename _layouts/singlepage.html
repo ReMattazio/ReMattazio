@@ -11,6 +11,9 @@ layout: page
       <img src="{{ post.capa | absolute_url }}" alt="Post thumbnail" class="portif-image">
       <p class="portif-text">{{ post.frase-capa }}
       </p>
+      {% for figura in post.figuras %}
+      <img src="{{ figura | absolute_url }}" alt="Post thumbnail" class="portif-image">
+      {% endfor %}
     </div>
    </article>
   {% endfor %}

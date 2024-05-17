@@ -3,6 +3,10 @@ layout: page
 title: Guaraná
 subtitle: Fechando o centenário de um jeito bem brasileiro.
 capa: /assets/img/latinhas_guarana.gif
+figuras:
+  - /assets/img/D_AD_Google_Ana_Regina_Tamires_Pasta_012.png
+  - /assets/img/beats_powerbeats.jpg
+  - /assets/img/fundet.png
 frase-capa: Réveillon 2021 com Guaraná
 permalink: profissional/miami-guarana
 ---
