@@ -7,14 +7,17 @@ layout: page
 <div class="posts-list">
   {% for post in trabalhos %}
   <article class="post-preview">
-    <div>
-      <img src="{{ post.capa | absolute_url }}" alt="Post thumbnail" class="portif-image">
-      <p class="portif-text">{{ post.frase-capa }}
-      </p>
+    <div {% if post.carousel == "yes" %}class="carousel-container"{% endif %}>
       {% for figura in post.figuras %}
-      <img src="{{ figura | absolute_url }}" alt="Post thumbnail" class="portif-image">
+        {% if post.carousel == "yes" %}<div class="carousel-slide">{% endif %}
+        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+        <img src="{{ figura | absolute_url }}" alt="Post thumbnail" class="portif-image">
+        </a>
+        {% if post.carousel == "yes" %}<div>{% endif %}
       {% endfor %}
     </div>
+      <p class="portif-text">{{ post.frase-capa }}
+      </p>
    </article>
   {% endfor %}
 </div>
