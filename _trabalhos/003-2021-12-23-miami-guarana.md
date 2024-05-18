@@ -3,7 +3,7 @@ layout: page
 title: Guaraná
 subtitle: Fechando o centenário de um jeito bem brasileiro.
 capa: /assets/img/latinhas_guarana.gif
-carousel: true
+carousel: false
 figuras:
   - /assets/img/latinhas_guarana.gif
   - /assets/img/Guarana_Board_1.png
