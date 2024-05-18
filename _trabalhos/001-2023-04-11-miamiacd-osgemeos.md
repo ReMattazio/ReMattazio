@@ -3,7 +3,7 @@ layout: page
 title: Os Gemeos
 subtitle: Nosso Shortlist do ACD Young Ones 2023.
 capa: /assets/img/Arte_Shortlist_ADC_menor.png
-carousel: true
+carousel: false
 figuras:
   - /assets/img/Board_ADC_Final.png
   - /assets/img/Board_ADC_Final textos.png
