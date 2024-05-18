@@ -3,6 +3,11 @@ layout: page
 title: Títulos
 subtitle: Exercícios.
 capa: /assets/img/flamingo.jpg
+carousel: true
+figuras:
+  - /assets/img/miami_titulo_1.png
+  - /assets/img/willbank titulo 1.png
+  - /assets/img/microondas titulo 1.png
 frase-capa: Títulos
 permalink: profissional/miami-titulos
 ---
