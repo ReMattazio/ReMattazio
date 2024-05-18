@@ -27,6 +27,6 @@ Segue o board:
 Ficha técnica:  
 Cliente: Os Gemeos  
 Agência: M.AD School   
-Diretora de criação: LP Gatti  
+Diretor de criação: LP Gatti  
 Direção de arte: [Ana Moraes](https://anaflaviamoraes.com.br/), Ana Carolina Agra e Cláudia Souza  
 Textos: Regina Mattazio e Beatriz Gusmão
