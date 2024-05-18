@@ -3,6 +3,12 @@ layout: page
 title: Os Gemeos
 subtitle: Nosso Shortlist do ACD Young Ones 2023.
 capa: /assets/img/Arte_Shortlist_ADC_menor.png
+carousel: true
+figuras:
+  - /assets/img/Board_ADC_Final.png
+  - /assets/img/Board_ADC_Final textos.png
+videos:
+  - https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/The_Stolen_Exhibition_Videocase.mp4?raw=true 
 frase-capa: IA faz arte
 permalink: profissional/miamiacd-osgemeos
 ---
