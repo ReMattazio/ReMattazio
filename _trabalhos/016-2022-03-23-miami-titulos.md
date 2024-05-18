@@ -3,7 +3,7 @@ layout: page
 title: Títulos
 subtitle: Exercícios.
 capa: /assets/img/flamingo.jpg
-carousel: true
+carousel: false
 figuras:
   - /assets/img/miami_titulo_1.png
   - /assets/img/willbank titulo 1.png
