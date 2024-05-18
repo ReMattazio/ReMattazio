@@ -9,6 +9,7 @@ layout: page
   <article class="post-preview">
     <p class="portif-text">{{ post.frase-capa }}</p>
     <div {% if post.carousel %}class="carousel-container"{% endif %}>
+    {% if post.figuras %}
       {% for figura in post.figuras %}
         {% if post.carousel %}<div class="carousel-slide">{% endif %}
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
@@ -18,9 +19,14 @@ layout: page
       {% endfor %}
       {% for video in post.videos %}
         {% if post.carousel %}<div class="carousel-slide">{% endif %}
-        <video controls src="{{ video | absolute_url }}" class="portif-image" style="{% if post.carousel %}max-width: 100vh{% elsif %}width:100% {% endif %};">seu navegador nao suporta video</video>
+        <video controls src="{{ video | absolute_url }}" class="portif-image" style="{% if post.carousel %}max-width: 100vh{% else %}width:100% {% endif %};">seu navegador nao suporta video</video>
         {% if post.carousel %}</div>{% endif %}
       {% endfor %}
+    {% else %}
+      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+        <img src="{{ post.capa | absolute_url }}" alt="Post thumbnail" class="portif-image">
+      </a>
+    {% endif %}
     </div>
    </article>
   {% endfor %}
