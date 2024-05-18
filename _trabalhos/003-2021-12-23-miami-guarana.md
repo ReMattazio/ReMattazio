@@ -8,7 +8,8 @@ figuras:
   - /assets/img/latinhas_guarana.gif
   - /assets/img/Guarana_Board_1.png
   - /assets/img/Guarana_Board.png
-videos: https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/The_Stolen_Exhibition_Videocase.mp4?raw=true 
+videos:
+  - https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/The_Stolen_Exhibition_Videocase.mp4?raw=true 
 frase-capa: Réveillon 2021 com Guaraná
 permalink: profissional/miami-guarana
 ---

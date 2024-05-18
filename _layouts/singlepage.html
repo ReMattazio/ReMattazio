@@ -18,7 +18,7 @@ layout: page
       {% endfor %}
       {% for video in post.videos %}
         {% if post.carousel %}<div class="carousel-slide">{% endif %}
-        <video controls src="{{ video | absolute_url }}" class="trab-image" style="{% if post.carousel %}max-width: 100vh{% elsif %}width:100% {% if endif %};">seu navegador nao suporta video</video>
+        <video controls src="{{ video | absolute_url }}" class="portif-image" style="{% if post.carousel %}max-width: 100vh{% elsif %}width:100% {% endif %};">seu navegador nao suporta video</video>
         {% if post.carousel %}</div>{% endif %}
       {% endfor %}
     </div>
