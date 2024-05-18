@@ -73,6 +73,8 @@ label {
   display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
+  align-items: center;
+  gap: 1%;
 }
 
 .carousel-slide {

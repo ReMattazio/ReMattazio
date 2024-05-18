@@ -5,9 +5,10 @@ subtitle: Fechando o centenário de um jeito bem brasileiro.
 capa: /assets/img/latinhas_guarana.gif
 carousel: true
 figuras:
-  - /assets/img/D_AD_Google_Ana_Regina_Tamires_Pasta_012.png
-  - /assets/img/beats_powerbeats.jpg
-  - /assets/img/fundet.png
+  - /assets/img/latinhas_guarana.gif
+  - /assets/img/Guarana_Board_1.png
+  - /assets/img/Guarana_Board.png
+videos: https://github.com/ReMattazio/remattazio.github.io/blob/master/assets/mids/The_Stolen_Exhibition_Videocase.mp4?raw=true 
 frase-capa: Réveillon 2021 com Guaraná
 permalink: profissional/miami-guarana
 ---

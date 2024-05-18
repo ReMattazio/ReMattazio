@@ -12,8 +12,13 @@ layout: page
       {% for figura in post.figuras %}
         {% if post.carousel %}<div class="carousel-slide">{% endif %}
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-        <img src="{{ figura | absolute_url }}" alt="Post thumbnail" class="portif-image">
+        <img src="{{ figura | absolute_url }}" alt="Post thumbnail" class="portif-image" {% if post.carousel %}style="max-width: 100vh"{% endif %}>
         </a>
+        {% if post.carousel %}</div>{% endif %}
+      {% endfor %}
+      {% for video in post.videos %}
+        {% if post.carousel %}<div class="carousel-slide">{% endif %}
+        <video controls src="{{ video | absolute_url }}" class="trab-image" style="{% if post.carousel %}max-width: 100vh{% elsif %}width:100% {% if endif %};">seu navegador nao suporta video</video>
         {% if post.carousel %}</div>{% endif %}
       {% endfor %}
     </div>
