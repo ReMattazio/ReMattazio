@@ -5,6 +5,7 @@ subtitle: Manifesto da Harley.
 capa: /assets/img/harley_pexels_aguilera_reduzido.png
 frase-capa: Sobre uma Harley
 permalink: profissional/espm-harley
+published: false
 ---
 
 Se tiver um tempinho, aprecie este manifesto  
