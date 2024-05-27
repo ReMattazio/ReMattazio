@@ -6,7 +6,6 @@ capa: /assets/img/flamingo.jpg
 carousel: false
 figuras:
   - /assets/img/miami_titulo_1.png
-  - /assets/img/willbank titulo 1.png
   - /assets/img/microondas titulo 1.png
 frase-capa: Títulos
 permalink: profissional/miami-titulos
