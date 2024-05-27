@@ -9,8 +9,6 @@ figuras:
   - /assets/img/Guarana_Board_1.png
   - /assets/img/Guarana_Board.png
   - /assets/img/Guarana_Board_texto.png
-  - /assets/img/Guarana_KV_Vermelho_Final.png
-  - /assets/img/Guarana_KV_Roxo_Final.png
 frase-capa: Réveillon 2021 com Guaraná
 permalink: profissional/miami-guarana
 ---
