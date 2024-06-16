@@ -16,7 +16,7 @@
             <li class="nav-item">
               <a class="nav-link" href="{{ #sobre | relative_url }}">Sobre</a>
             </li>
-      {%- elsif -%}
+      {%- else -%}
         {%- for link in site.navbar-links -%}
           {%- if link[1].first %}
             <li class="nav-item dropdown">
