@@ -9,10 +9,11 @@
 }
 
 .portif-image {
-  border-radius: 2rem;
+  border-radius: 1rem;
   display: block;
   margin-right: auto;
   margin-left: auto;
+  margim-bottom: 1rem;
   filter: grayscale(0%);
 }
 

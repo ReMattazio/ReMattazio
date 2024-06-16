@@ -14,11 +14,11 @@ author: Re Mattazio
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Profissional: "profissional"
-  Pessoal: "pessoal"
+#  Profissional: "profissional"
+#  Pessoal: "pessoal"
 #  Currículo: "curriculo"
-  Contato: "contato"
-  SP: "temp"
+#  Contato: "contato"
+
 
 # --- Logo --- #
 
